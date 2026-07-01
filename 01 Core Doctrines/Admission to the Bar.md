@@ -45,7 +45,14 @@ Pre-amendment Section 2 required: (1) Philippine citizenship, (2) **residence in
 
 ### Foreign law graduates
 
-A Filipino citizen who obtained a Juris Doctor or equivalent law degree from a foreign law school may sit the Philippine Bar Examinations only after submitting to the Supreme Court proof that the degree was completed and that the foreign law school is recognized or accredited by the proper authority in that jurisdiction. This traces back to **Bar Matter No. 1153** (9 March 2010), which first opened the Philippine Bar to foreign-trained Filipino law graduates, and is now folded into the amended Rule 138's foreign-degree provisions.
+A Filipino citizen who obtained a Juris Doctor or equivalent law degree from a foreign law school may sit the Philippine Bar Examinations only after submitting to the Supreme Court proof that the degree was completed and that the foreign law school is recognized or accredited by the proper authority in that jurisdiction. This traces back to **Bar Matter No. 1153** (9 March 2010), which first opened the Philippine Bar to foreign-trained Filipino law graduates, and is now folded into the amended Rule 138's foreign-degree provisions. This is a distinct question from whether an actual foreign national may practice law in the Philippines — see [[Foreign Lawyers]] for that separate, much narrower topic.
+
+### Citizenship in practice: election, loss, and reacquisition
+
+"Philippine citizenship" as an admission requirement is not always a simple yes-or-no fact, and two cases anchor the ways it gets litigated:
+
+- **Election of citizenship.** A legitimate child born under the 1935 Constitution to a Filipino mother and an alien father did not acquire Filipino citizenship at birth — only an inchoate right to elect it upon reaching the age of majority, within a period the Court has construed as roughly **three years**. In [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching|In Re: Vicente Ching]], an applicant who passed the Bar Examinations was nonetheless denied admission because he elected Philippine citizenship fourteen years after reaching majority — far beyond any reasonable reading of the rule — and decades of de facto life as a Filipino (voting, holding office, working as a CPA) could not substitute for a timely formal election.
+- **Loss and reacquisition.** Citizenship, once validly held, can also be lost — most commonly through naturalization in another country — and later reacquired under RA 9225 (the Citizenship Retention and Re-Acquisition Act of 2003). In [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In Re: Muneses]], the Court held that reacquiring citizenship under RA 9225 does not, by itself, restore a lawyer's practice privilege: the lawyer must petition the Court directly and retake the Lawyer's Oath, because citizenship is a **continuing** requirement, not merely a one-time admission fact. See [[Continuing Requirements for the Practice of Law]] for the fuller treatment of citizenship as an ongoing obligation.
 
 ## From passing the exam to practicing law
 
@@ -64,12 +71,18 @@ The amended Rule 138 made the Bar Examinations **electronic and regionalized**, 
 
 Good moral character does the most work of any single requirement in this area because it operates twice: once as a **condition precedent** to admission, and again as a **continuing requirement** for remaining a member of the Bar in good standing. A finding of good moral character at the time of admission does not immunize a lawyer from later scrutiny of conduct that occurred before or after admission — proof of bad moral character can still support discipline later, and conversely a rehabilitated applicant is not permanently barred by past misconduct if good moral character is convincingly re-established. See [[In re Argosino, B.M. No. 712]] for the leading illustration of rehabilitation and conditional admission, and [[Aguirre v. Rana]] for the separate point that admission and authority to practice are not the same event.
 
+The "continuing requirement" half of the doctrine has its own leading illustration: in [[Garrido v. Attys. Garrido and Valencia]], the Court disbarred two lawyers for a bigamous-in-substance relationship sustained over decades, holding that the time elapsed between the immoral conduct and the complaint does not matter — the only question is whether the lawyer *currently* possesses the moral fitness the profession demands. Read Argosino and Garrido together: Argosino shows the Court forgiving past misconduct before admission upon a convincing showing of rehabilitation; Garrido shows the Court withdrawing the privilege after admission once gross immorality is proven, however long ago it began.
+
 ## Related cases
 
 - [[Cayetano v. Monsod]] — the definition of "practice of law" invoked whenever admission or qualification for a law-related office is contested.
 - [[In re Argosino, B.M. No. 712]] — good moral character as both a threshold and a rehabilitative inquiry before oath-taking.
+- [[Garrido v. Attys. Garrido and Valencia]] — good moral character as a continuing requirement; disbarment for gross immorality regardless of how long ago it began.
 - [[Aguirre v. Rana]] — passing the Bar is not admission; unauthorized practice before signing the Roll is still unauthorized practice.
 - [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — integration of the Bar and the compulsory obligations that follow admission.
+- [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching]] — election of citizenship must be made within a reasonable time; passing the Bar does not cure an untimely election.
+- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] — reacquiring citizenship under RA 9225 does not automatically restore the practice privilege.
+- [[Pimentel v. Legal Education Board]] — the Court's exclusive power over admission to practice, distinct from LEB's power over legal education generally.
 
 ## Bar traps
 
@@ -93,12 +106,22 @@ Wrong. A bar passer must still take the Lawyer's Oath and sign the Roll of Attor
 
 Wrong. It is a continuing requirement; loss of good moral character after admission is a ground for discipline, not merely a bar to entry.
 
+### Trap 6: "Passing the Bar Examinations cures any lingering doubt about citizenship."
+
+Wrong. See [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching|In Re: Vicente Ching]] — an applicant who passed the Examinations was still denied admission because his election of Philippine citizenship, made fourteen years after reaching the age of majority, was untimely. Citizenship must be established as a fact independent of exam performance.
+
+### Trap 7: "Reacquiring Philippine citizenship under RA 9225 automatically lets a lawyer resume practicing."
+
+Wrong. See [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In Re: Muneses]] — a Supreme Court petition and a fresh Lawyer's Oath are still required.
+
 ## Rule anchor map
 
 | Issue | Main anchor |
 |---|---|
 | Source of the Court's power over admission | 1987 Constitution, Art. VIII, Sec. 5(5) |
 | Qualifications for admission | Rule 138, Sec. 2, as amended by A.M. No. 24-10-05-SC |
+| Election of citizenship (natural-born, 1935 Constitution) | [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching|In Re: Vicente Ching]] — "reasonable time" construed as roughly three years |
+| Loss and reacquisition of citizenship | RA 9225; [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In Re: Muneses]] |
 | Academic and CLEP prerequisite | Rule 138, Secs. 2–3, as amended; RA 7662 |
 | Foreign law graduates | Bar Matter No. 1153; Rule 138, as amended |
 | Oath and Roll | Rule 138, Secs. 17–19; Revised Lawyer's Oath |
@@ -125,6 +148,12 @@ A: No. The examinee must still take the Lawyer's Oath and sign the Roll of Attor
 Q: Is good moral character checked only at the time of admission?  
 A: No. It is both a condition precedent to admission and a continuing requirement for remaining a lawyer in good standing.
 
+Q: Within what period must a legitimate child born under the 1935 Constitution to a Filipino mother and an alien father elect Philippine citizenship?  
+A: Within a reasonable time after reaching the age of majority, construed as roughly three years.
+
+Q: Does reacquiring Philippine citizenship under RA 9225 automatically restore a lawyer's privilege to practice?  
+A: No. The lawyer must petition the Supreme Court directly and retake the Lawyer's Oath.
+
 ## Source ladder
 
 Use sources in this order:
@@ -133,7 +162,7 @@ Use sources in this order:
 2. Rule 138 of the Rules of Court, as amended by A.M. No. 24-10-05-SC (12 August 2025, effective 3 November 2025).
 3. Bar Matter No. 1153 (9 March 2010), on foreign-trained applicants.
 4. RA 7662 (Legal Education Reform Act) and Legal Education Board issuances.
-5. Supreme Court cases, especially [[Pimentel v. Legal Education Board|Pimentel, et al. v. Legal Education Board]] (2019), [[In re Argosino, B.M. No. 712]], and [[Aguirre v. Rana]].
+5. Supreme Court cases, especially [[Pimentel v. Legal Education Board|Pimentel, et al. v. Legal Education Board]] (2019), [[In re Argosino, B.M. No. 712]], [[Garrido v. Attys. Garrido and Valencia]], [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching]], [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]], and [[Aguirre v. Rana]].
 6. Official Supreme Court announcements on the 2025 Bar Examination reforms (sc.judiciary.gov.ph).
 7. Private review materials only as reading guides, not as text to copy into the public repository — and only after checking them against the amended rule above.
 
@@ -143,5 +172,7 @@ Use sources in this order:
 - [[Continuing Requirements for the Practice of Law]]
 - [[Law Student Practice Rule]]
 - [[Revised Lawyer's Oath]]
+- [[Who May Practice Law]]
+- [[Foreign Lawyers]]
 - [[CPRA Canon Index]]
 - [[Ethics Case Index]]

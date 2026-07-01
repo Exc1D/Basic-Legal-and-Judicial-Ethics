@@ -79,12 +79,13 @@ A recurring bar question tests whether **Rule 138-A** or **Section 34, Rule 138*
 - **Before an inferior (first-level) court**, where issues and procedure are relatively simple, a law student may appear **in a personal capacity, without a supervising lawyer**, but not as counsel — the student instead stands as an **agent or friend of a party litigant** under Section 34, Rule 138, exercising the party's own right to conduct litigation personally with lay assistance.
 - **Before any other court or in more complex proceedings**, a student may appear as counsel **only** through the CLEP certification-and-supervision structure of Rule 138-A.
 
-This is why a third-year law student who enters a formal appearance as **private prosecutor** in an inferior court, invoking Section 34 rather than Circular No. 19/Rule 138-A, cannot automatically be turned away for lack of a supervising lawyer — the inferior-court exception is a distinct doctrinal track, not a shortcut around CLEP.
+This is why a third-year law student who enters a formal appearance as **private prosecutor** in an inferior court, invoking Section 34 rather than Circular No. 19/Rule 138-A, cannot automatically be turned away for lack of a supervising lawyer — the inferior-court exception is a distinct doctrinal track, not a shortcut around CLEP. [[Cruz v. Mina]] is the leading applied illustration: a law student sought to appear as private prosecutor for his own father in a grave threats case before the MeTC, and the Supreme Court upheld the appearance precisely because it rested on Section 34's agent-or-friend provision — available to any lay person, not only law students — rather than on any Rule 138-A certification the student did not hold.
 
 ## Related cases
 
 - [[Cayetano v. Monsod]] — the broad, skills-and-training-based definition of practice of law that frames why student practice must be tightly bounded by certification and supervision.
 - [[Aguirre v. Rana]] — reinforces that only a defined act of authorization (here, certification, not mere enrollment) permits practice before full admission.
+- [[Cruz v. Mina]] — a law student's Section 34 appearance as private prosecutor for his own father, upheld without any Rule 138-A certification.
 
 ## Bar traps
 
@@ -98,7 +99,7 @@ Wrong. All pleadings, motions, and similar papers must be signed by the **superv
 
 ### Trap 3: "A law student may never appear in court without a supervising lawyer."
 
-Wrong, in one narrow but heavily tested setting: before **inferior courts**, a student may appear personally as an agent or friend of a party under Section 34, Rule 138 — not as counsel, and not under Rule 138-A supervision. See *B.M. No. 730*.
+Wrong, in one narrow but heavily tested setting: before **inferior courts**, a student may appear personally as an agent or friend of a party under Section 34, Rule 138 — not as counsel, and not under Rule 138-A supervision. See *B.M. No. 730* and [[Cruz v. Mina]].
 
 ### Trap 4: "CLEP is only relevant to students who want litigation experience."
 
@@ -117,7 +118,7 @@ Wrong. Receiving payment or compensation for CLEP services is itself listed as u
 | Practice areas | Rule 138-A, Sec. 4 |
 | Supervision and signing | Rule 138-A, Sec. 2; Circular No. 19 (1986) |
 | Unauthorized student practice | Rule 138-A, Sec. 13 |
-| Inferior-court self-representation distinction | Sec. 34, Rule 138; B.M. No. 730 (1997) |
+| Inferior-court self-representation distinction | Sec. 34, Rule 138; B.M. No. 730 (1997); [[Cruz v. Mina]] (2007) |
 | CLEP as Bar prerequisite | Rule 138, as amended by A.M. No. 24-10-05-SC (2025) |
 
 ## Recall questions
@@ -143,7 +144,7 @@ Use sources in this order:
 
 1. Rule 138-A of the Rules of Court, as amended by A.M. No. 19-03-24-SC (25 June 2019).
 2. Circular No. 19 (19 December 1986), on supervision of student practice.
-3. B.M. No. 730 (10 June 1997), on inferior-court self-representation versus Rule 138-A practice.
+3. B.M. No. 730 (10 June 1997) and [[Cruz v. Mina]] (2007), on inferior-court self-representation versus Rule 138-A practice.
 4. Rule 138, as amended by A.M. No. 24-10-05-SC (2025), on CLEP as a Bar prerequisite.
 5. Code of Professional Responsibility and Accountability, as the framework governing student CLEP services.
 6. Private review materials only as reading guides, not as text to copy into the public repository.

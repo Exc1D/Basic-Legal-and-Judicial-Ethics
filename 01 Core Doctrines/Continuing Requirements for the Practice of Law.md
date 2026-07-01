@@ -44,6 +44,8 @@ Under **Bar Matter No. 850**, members of the IBP who are not exempt must complet
 
 Failure to comply carries escalating consequences: a non-compliance notice, a 60-day cure period, a non-compliance fee, and eventually listing as a **delinquent member** with the possibility of suspension under Rule 139-A. A lawyer who lacks the required MCLE units may still generally practice — because practice of law is broad enough to include any activity requiring legal knowledge, training, and experience (*Cayetano v. Monsod*) — but a non-compliant lawyer **may not sign pleadings**; doing so can draw a fine, discharge from the case, and the client's right to secure new counsel and reclaim fees already paid (OCA Circular No. 79-2014).
 
+Non-compliance and *false exemption claims* are two separate wrongs, and the second is punished far more severely. In [[Turla v. Atty. Caringal]], a lawyer who had simply failed to complete his MCLE units — and paid the resulting non-compliance fee — was suspended for **three years**, not for the non-compliance itself, but because he then falsely indicated in eleven pleadings that he was "MCLE-exempt," a knowing misrepresentation to the courts that violated the Lawyer's Oath and the duty of candor. Belatedly finishing the MCLE requirement afterward did not erase the dishonesty already committed in the false filings.
+
 Exemptions under B.M. No. 850 include, among others, the President and Vice-President and department secretaries/undersecretaries, Senators and Representatives, the Chief Justice and incumbent or retired members of the Judiciary and the JBC, the Solicitor General and Assistant Solicitors General, the Ombudsman and Deputies, heads of quasi-judicial agencies, full-time law professors and deans of at least 10 years' standing, governors and mayors, those not in law practice at all, and those who have retired from practice with IBP Board of Governors approval.
 
 ### 5. Possession of good moral character
@@ -58,13 +60,15 @@ Lawyers **excluded** from ULAS coverage include those in government service or h
 
 ### 7. Citizenship
 
-The practice of law, like other regulated professions, is constitutionally reserved to Filipino citizens except where a law provides otherwise (1987 Constitution, Art. XII, Sec. 14). A Filipino lawyer who becomes a naturalized citizen of another country and later reacquires Philippine citizenship under **RA 9225** is deemed never to have lost Philippine citizenship or Bar membership — but reacquisition does **not automatically revive the right to practice**; the lawyer must apply to the Supreme Court to resume practice and, ordinarily, must first update MCLE compliance and other continuing requirements (*Petition for Leave to Resume Practice of Law, Benjamin M. Dacanay*, B.M. No. 1678, 17 December 2007).
+The practice of law, like other regulated professions, is constitutionally reserved to Filipino citizens except where a law provides otherwise (1987 Constitution, Art. XII, Sec. 14). A Filipino lawyer who becomes a naturalized citizen of another country and later reacquires Philippine citizenship under **RA 9225** is deemed never to have lost Philippine citizenship or Bar membership — but reacquisition does **not automatically revive the right to practice**; the lawyer must apply to the Supreme Court to resume practice and, ordinarily, must first update MCLE compliance and other continuing requirements (*Petition for Leave to Resume Practice of Law, Benjamin M. Dacanay*, B.M. No. 1678, 17 December 2007; reaffirmed in [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In Re: Muneses]], B.M. No. 2112, 24 July 2012, which additionally requires retaking the Lawyer's Oath).
 
 ## Related cases
 
 - [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — mandatory IBP integration does not violate freedom of association; non-payment of dues is a disciplinable ground.
 - [[In re Argosino, B.M. No. 712]] — good moral character as a continuing, rehabilitable standard.
 - [[Cayetano v. Monsod]] — the broad definition of practice of law referenced when assessing whether an MCLE-delinquent lawyer may still be considered to be practicing.
+- [[Turla v. Atty. Caringal]] — MCLE non-compliance versus false MCLE-exemption claims; the second is the far graver, oath-violating wrong.
+- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] — reaffirms and formalizes the Dacanay rule on RA 9225 citizenship reacquisition.
 
 ## Bar traps
 
@@ -88,6 +92,10 @@ Wrong. Bar membership is deemed never lost, but the **right to resume practice**
 
 Wrong. At most 50% of the ULAS hours may be satisfied by financial contribution; the remaining half must be actual personal or organizational service, and at least 25% of the total must be rendered personally by the lawyer.
 
+### Trap 6: "Paying the MCLE non-compliance fee and claiming 'exemption' in pleadings amount to the same minor lapse."
+
+Wrong. Paying the non-compliance fee is the rule's own built-in remedy for a simple lapse; falsely claiming exemption is a separate, knowing misrepresentation to the courts, and drew a three-year suspension in [[Turla v. Atty. Caringal]] even though the underlying MCLE deficiency was eventually cured.
+
 ## Rule anchor map
 
 | Requirement | Main anchor |
@@ -96,9 +104,10 @@ Wrong. At most 50% of the ULAS hours may be satisfied by financial contribution;
 | IBP good standing | Rule 138, Sec. 1; IBP By-Laws, Art. II |
 | IBP dues | Rule 139-A, Sec. 10; IBP By-Laws, Sec. 24 |
 | MCLE | Bar Matter No. 850 |
+| False MCLE-exemption claims | [[Turla v. Atty. Caringal]] |
 | Good moral character (continuing) | *Buenantura v. Atty. Gille* (2020) |
 | Legal aid | A.M. No. 22-11-01-SC (ULAS), effective 1 January 2025 |
-| Citizenship | Constitution, Art. XII, Sec. 14; RA 9225 |
+| Citizenship | Constitution, Art. XII, Sec. 14; RA 9225; [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] |
 
 ## Recall questions
 
@@ -120,6 +129,9 @@ A: 60 hours every 36-month compliance period; at most 50% may be satisfied by fi
 Q: Does reacquiring Philippine citizenship under RA 9225 restore a lawyer's right to practice?  
 A: Bar membership is deemed never lost, but resuming practice requires a Supreme Court petition and updated compliance with continuing requirements.
 
+Q: Is falsely claiming MCLE exemption in a pleading a worse wrong than simply failing to complete MCLE units?  
+A: Yes. Non-compliance is cured through a fee and a cure period; falsely claiming exemption is a knowing misrepresentation to the court that can draw a multi-year suspension on its own.
+
 ## Source ladder
 
 Use sources in this order:
@@ -129,7 +141,7 @@ Use sources in this order:
 3. Bar Matter No. 850 (MCLE) and its Implementing Regulations.
 4. A.M. No. 22-11-01-SC (Rules on Unified Legal Aid Service).
 5. 1987 Constitution, Art. XII, Sec. 14; RA 9225.
-6. Supreme Court cases, especially [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] and *Petition for Leave to Resume Practice of Law, Dacanay* (B.M. No. 1678, 2007).
+6. Supreme Court cases, especially [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]], [[Turla v. Atty. Caringal]], *Petition for Leave to Resume Practice of Law, Dacanay* (B.M. No. 1678, 2007), and [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]].
 7. Official MCLE Office (mcle.judiciary.gov.ph) and ULAS (sc.judiciary.gov.ph/ulas) pages.
 8. Private review materials only as reading guides, not as text to copy into the public repository.
 

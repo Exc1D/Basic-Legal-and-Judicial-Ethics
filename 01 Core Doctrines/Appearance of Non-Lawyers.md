@@ -28,7 +28,7 @@ The general rule is that **only members of the Philippine Bar in good standing m
 
 ### 1. Self-representation before first-level courts (MTC/MeTC/MCTC)
 
-Under **Section 34, Rule 138**, in the court of a first-level judge, a party may conduct litigation **in person**, with the aid of an **agent or friend** appointed for the purpose, or with the aid of an attorney. This is the classic setting for the **agent-or-friend** exception, and it is available only at the first level.
+Under **Section 34, Rule 138**, in the court of a first-level judge, a party may conduct litigation **in person**, with the aid of an **agent or friend** appointed for the purpose, or with the aid of an attorney. This is the classic setting for the **agent-or-friend** exception, and it is available only at the first level. [[Cruz v. Mina]] applies this exactly: a law student was allowed to appear as private prosecutor for his own father in a grave threats case before the MeTC, on the strength of Section 34 alone — no Rule 138-A certification or supervising lawyer was needed, because the appearance rested on the party's own right to lay assistance, not on the student's status as such. See [[Law Student Practice Rule]] for the fuller contrast between this track and certified CLEP practice.
 
 ### 2. Self-representation before all other courts
 
@@ -66,6 +66,14 @@ Under Section 14, RA 9285 (Alternative Dispute Resolution Act of 2004), a party 
 
 A law student holding a current Level 1 or Level 2 certification under [[Law Student Practice Rule|Rule 138-A]] may render limited legal services, including — at Level 2 — appearing at trial, under the direct supervision of an accredited supervising lawyer.
 
+### 11. Cases under the Rules on Expedited Procedures in the First Level Courts
+
+**A.M. No. 08-8-7-SC** (effective 11 April 2022) consolidated the old Revised Rules on Summary Procedure and the Revised Rules of Procedure for Small Claims Cases into a single issuance covering the first-level courts (MeTC/MTCC/MTC/MCTC). It is easy to mistake this whole issuance for a lawyer-free zone because its most famous component — small claims — genuinely is one. It is not: the **expedited-procedure track proper** (forcible entry and unlawful detainer, regardless of amount, and other civil actions up to ₱2,000,000) is simply a faster, streamlined civil procedure, and parties may still be represented by **counsel** exactly as in ordinary civil litigation. Only the **small-claims track**, carved out as its own Rule within the same issuance, restricts lawyer appearance in the way [[Prohibited Proceedings for Lawyers]] describes. Do not read "expedited" as a synonym for "no lawyers."
+
+### 12. Arbitration
+
+Party representation in arbitration is markedly more flexible than in litigation. Under **RA 9285** (the Alternative Dispute Resolution Act of 2004) and the Special ADR Rules, a party to an arbitration may be represented by counsel or by any other authorized representative of the party's choosing — arbitration's party-autonomy character extends to who may appear, not only to how the dispute is decided. This is also the doctrinal home of the narrow **foreign-lawyer exception** for international commercial arbitration seated in the Philippines; see [[Foreign Lawyers]] for that specific carve-out, which is considerably narrower than domestic arbitration's general representation flexibility.
+
 ## What all of these exceptions have in common — and where they stop
 
 Every exception above rests on either (a) the party's own right to represent themselves, with or without lay assistance, or (b) an express statutory or tribunal-specific authorization that never depended on Bar membership. None of them authorizes a **non-lawyer to hold out generally as someone who represents others for a fee**. A court employee who, outside official duty, drafts pleadings or gives legal advice to litigants for consideration is not exercising any of these exceptions — that is unauthorized practice, full stop. See [[Arienda v. Monilla]].
@@ -78,6 +86,7 @@ Self-representation is also conceptually distinct from representing **another** 
 - [[Arienda v. Monilla]] — a non-lawyer court employee's preparation of legal documents for litigants, outside any recognized exception, is not protected appearance.
 - [[People vs. Simplicio Villanueva]] — an isolated appearance by a public official/lawyer is analyzed under the habituality-and-compensation test, not the non-lawyer exceptions.
 - [[Cayetano v. Monsod]] — supplies the baseline definition of practice of law against which every claimed exception is measured.
+- [[Cruz v. Mina]] — the Section 34 agent-or-friend exception applied to a law student appearing for his own father.
 
 ## Bar traps
 
@@ -101,6 +110,10 @@ Wrong. Absent a recognized exception, this is unauthorized practice of law, rega
 
 Not automatic. The court must be satisfied that the accused can sufficiently protect his own rights before allowing self-representation in a criminal case, under Section 1(c), Rule 138.
 
+### Trap 6: "The Rules on Expedited Procedures in the First Level Courts are a lawyer-free zone, like small claims."
+
+Wrong. Only the small-claims track (Rule IV of A.M. No. 08-8-7-SC) restricts lawyer appearance. The expedited-procedure track proper — forcible entry/unlawful detainer and civil actions up to ₱2,000,000 — is an ordinary, faster civil procedure where lawyers appear as counsel exactly as in any other case.
+
 ## Rule anchor map
 
 | Setting | Main anchor |
@@ -115,6 +128,10 @@ Not automatic. The court must be satisfied that the accused can sufficiently pro
 | NCIP | NCIP Administrative Circular No. 1-03 |
 | Mediation | RA 9285, Sec. 14 |
 | Certified law students | Rule 138-A |
+| Expedited-procedure civil cases (lawyers still appear normally) | A.M. No. 08-8-7-SC |
+| Small claims (lawyers restricted) | A.M. No. 08-8-7-SC, Rule IV |
+| Arbitration (broad representation flexibility) | RA 9285; Special ADR Rules |
+| International commercial arbitration (foreign counsel) | RA 9285; see [[Foreign Lawyers]] |
 
 ## Recall questions
 
@@ -141,7 +158,7 @@ Use sources in this order:
 2. Rule 116, Sec. 7 of the Rules of Court (criminal self-defense appointment).
 3. Special tribunal rules: Labor Code Art. 222; DARAB Revised Rules of Procedure; Act No. 2259 (Cadastral Act); NCIP Administrative Circular No. 1-03; RA 9285, Sec. 14.
 4. Rule 138-A (Law Student Practice), for the certified-student exception.
-5. Supreme Court cases, especially [[Maderada v. Judge Mediodea]] and [[Arienda v. Monilla]].
+5. Supreme Court cases, especially [[Maderada v. Judge Mediodea]], [[Arienda v. Monilla]], and [[Cruz v. Mina]].
 6. Private review materials only as reading guides, not as text to copy into the public repository.
 
 ## Related notes
@@ -150,5 +167,7 @@ Use sources in this order:
 - [[Law Student Practice Rule]]
 - [[Prohibited Proceedings for Lawyers]]
 - [[Public Officials and Private Practice]]
+- [[Who May Practice Law]]
+- [[Foreign Lawyers]]
 - [[Appearance of Non-Lawyers - Comparison Table]]
 - [[Ethics Case Index]]

@@ -134,6 +134,7 @@ See:
 - [[Arienda v. Monilla]] — a non-lawyer court employee who prepares legal documents for a fee is engaged in unauthorized practice of law, regardless of the private, off-duty nature of the arrangement.
 - [[Bonifacio v. Atty. Era and Atty. Bragas]] — a suspended lawyer who keeps acting for clients is practicing law despite the suspension; an associate who knowingly helps him is separately liable for assisting.
 - [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — decided under the CPRA; distinguishes active assistance in a disbarred lawyer's unauthorized practice from passive, ministerial association with the same firm name.
+- [[Sps. Agbulos v. Gutierrez]] — a different sense of "authorized": under Rule 138, Sec. 22, a lawyer's appearance before the trial court is presumed to continue on appeal absent formal withdrawal, and even a technically premature appearance may be ratified by the client's silence. See [[Privileges of a Lawyer]] for the fuller treatment of this presumption.
 
 ## Bar traps
 
@@ -235,6 +236,10 @@ Use sources in this order:
 - [[Prohibited Proceedings for Lawyers]]
 - [[Public Officials and Private Practice]]
 - [[Unauthorized Practice of Law]]
+- [[Who May Practice Law]]
+- [[Foreign Lawyers]]
+- [[Privileges of a Lawyer]]
+- [[Revised Lawyer's Oath]]
 - [[Notarial Practice]]
 - [[CPRA Canon Index]]
 - [[Ethics Case Index]]

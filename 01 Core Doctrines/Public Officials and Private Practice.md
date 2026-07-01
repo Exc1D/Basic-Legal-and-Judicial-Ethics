@@ -12,6 +12,10 @@ tags:
   - conflict-of-interest
   - government-lawyers
 up: "[[Legal and Judicial Ethics MOC]]"
+aliases:
+  - Government Lawyers and Private Practice
+  - Members of Congress Who Are Lawyers
+  - Local Sanggunian Members Who Are Lawyers
 related:
   - "[[Practice of Law]]"
   - "[[Appearance of Non-Lawyers]]"
@@ -33,7 +37,7 @@ These offices bar private practice of law entirely, for the duration of the offi
 - The **President, Vice-President, Members of the Cabinet, and their deputies and assistants** (1987 Constitution, Art. VII, Sec. 13) — and the prohibition extends to holding *any* other office or employment during tenure, not merely law practice, subject only to constitutionally specified exceptions (e.g., the Vice-President sitting in the Cabinet) or ex officio posts required by the primary functions of the office (*Funa v. Agra*, applying *Public Interest Center, Inc. v. Elma*).
 - **Members of the Constitutional Commissions** — COMELEC, COA, CSC (1987 Constitution, Art. IX-A, Sec. 2). Even uncompensated legal advice or document preparation given "as a favor" while holding this office is private practice within the constitutional prohibition, applying the broad *Cayetano v. Monsod* definition of practice of law.
 - The **Ombudsman and the Deputy Ombudsmen** (1987 Constitution, Art. IX, Sec. 8, 2nd par.).
-- **Judges and other officials and employees of the superior courts**, and **officials and employees of the Office of the Solicitor General** (Rule 138, **Sec. 35** of the Rules of Court — commonly mis-cited in review materials as "Rule 148"; the correct anchor is Rule 138 itself).
+- **Judges and other officials and employees of the superior courts**, and **officials and employees of the Office of the Solicitor General** (Rule 138, **Sec. 35** of the Rules of Court — commonly mis-cited in review materials as "Rule 148"; the correct anchor is Rule 138 itself). [[Ziga v. Judge Arejola]] applies this without exception even to a case the judge had handled *before* appointment and involving the judge's own family: continuing to sign pleadings, file manifestations, and personally appear at hearings after assuming the bench was illegal practice of law, full stop.
 - **Government prosecutors** (applying the rationale in *People v. Villanueva*, which treats a public prosecutor's appearance for the State as incompatible with simultaneously appearing in a private capacity in the same matter).
 - **Civil service officers or employees whose duties and responsibilities require that their entire time be at the disposal of the government** (*Ramos v. Rada*, A.M. No. 202, 22 July 1975).
 - **All governors, and city and municipal mayors** (RA 7160, Sec. 90) — full-time local chief executives, unlike ordinary Sanggunian members, are barred outright.
@@ -48,7 +52,9 @@ Under Art. VI, Sec. 14 of the 1987 Constitution, a Senator or Member of the Hous
 - It bars **personal appearance** — which includes not only arguing a case, but also **filing a pleading, motion, or answer** on a client's behalf.
 - It does **not** categorically bar the legislator from the practice of law altogether; a legislator-lawyer may still, for instance, run a law firm, so long as the legislator does not personally sign or appear.
 
-### Members of the Sanggunian
+### Members of the Sanggunian, including Vice-Governors and Vice-Mayors
+
+**Vice-Governors, Vice-Mayors, and members of the Sangguniang Panlalawigan/Panlungsod/Bayan are all, by statutory structure, members of the Sanggunian** — the Vice-Governor presides over the Sangguniang Panlalawigan and the Vice-Mayor over the Sangguniang Panlungsod/Bayan, but presiding does not remove them from the same RA 7160, Sec. 91 category as the rank-and-file Sanggunian members discussed below. This distinguishes them sharply from governors and city/municipal mayors, who are full-time local *chief executives* absolutely barred from private practice under RA 7160, Sec. 90. A Vice-Governor or Vice-Mayor who is a lawyer may practice, subject to the same qualified restrictions as any other Sanggunian member.
 
 Under RA 7160, Sec. 91, Sanggunian members who are lawyers may practice their profession, but **may not**:
 
@@ -70,6 +76,12 @@ and may not collect a fee for appearing in an administrative proceeding to maint
 
 Outside these specific offices, the default CPRA rule already stated above governs every other government lawyer: private practice is barred **unless** the Constitution, a law, or Civil Service rules allow it, and even then only upon the superior's express authority, for a stated purpose, during approved leave, and never adverse to the government. A lawyer who practices privately without securing and documenting this authorization is not shielded merely because the employing office has a general policy allowing outside practice — the authorization must be case-specific. See *Yumol, Jr. v. Ferrer, Sr.*, A.C. No. 6585 (21 April 2005), where a Commission on Human Rights lawyer was held liable for private practice despite a CHR resolution permitting it in principle, because he never obtained the required written request, approval, and leave of absence.
 
+### Government lawyers separated from the service
+
+Leaving government office does not immediately clear the way for private practice, either — RA 6713, Sec. 7(b)(2) imposes a **one-year post-employment restriction**: a former official or employee may not practice their profession "in connection with any matter before the office" they used to serve, for one year after separation. This is a distinct rule from Rule 138, Sec. 35's absolute bar on *current* judges and superior-court/OSG officials — it instead reaches *former* officials and employees generally, and is time-bound rather than permanent. [[In Re Query of Atty. Karen M. Silverio-Buffe|In Re: Silverio-Buffe]] shows the Court reading this restriction strictly: a former Clerk of Court who resigned and, within the one-year window, appeared as private counsel in cases before her own former court branch was fined for professional misconduct, notwithstanding her argument that the statute merely called for a case-by-case conflict-of-interest inquiry rather than a categorical bar.
+
+> **Bar trap:** do not assume that once a government lawyer resigns or retires, private practice — including practice before the lawyer's own former office — is immediately unrestricted. RA 6713's one-year post-employment window is a separate, additional restriction layered on top of whatever restriction applied during incumbency.
+
 ## RA 6713 restrictions that apply to all public officials
 
 Separately from the practice-specific rules above, **Section 7(b) of RA 6713** (Code of Conduct and Ethical Standards for Public Officials and Employees) prohibits **all** public officials and employees, lawyers or not, from:
@@ -84,6 +96,9 @@ Separately from the practice-specific rules above, **Section 7(b) of RA 6713** (
 - [[Cayetano v. Monsod]] — the broad definition of practice of law used to catch even unpaid legal advice or document preparation as prohibited private practice for absolutely restricted officials.
 - [[People vs. Simplicio Villanueva]] — isolated appearance by a public official/lawyer, analyzed for habituality and compensation rather than automatic disqualification.
 - [[Maderada v. Judge Mediodea]] — self-representation is not private practice, a distinction that also matters when a public official appears only in a personal capacity.
+- [[Ziga v. Judge Arejola]] — a judge's continued private appearance in a family land-registration case begun before appointment; illegal practice of law, no exception for pre-appointment cases or family matters.
+- [[In Re Query of Atty. Karen M. Silverio-Buffe]] — the one-year post-employment restriction under RA 6713, Sec. 7(b)(2), applied strictly against a former Clerk of Court.
+- [[Office of the Court Administrator vs. Atty. Misael M. Ladaga]] — isolated, unpaid court appearances by a court employee still require the Supreme Court's prior written permission.
 
 ## Bar traps
 
@@ -111,6 +126,14 @@ Wrong. Under CPRA Canon III, Sec. 21 (and RA 6713, Sec. 7(b)(2)), the lawyer sti
 
 A citation error worth catching in your own notes — the correct anchor is **Rule 138, Sec. 35**, not "Rule 148," which does not exist in the Rules of Court's attorney provisions.
 
+### Trap 7: "Vice-Governors and Vice-Mayors, since they preside over the Sanggunian, are absolutely barred from private practice like governors and mayors."
+
+Wrong. Presiding over the Sanggunian does not convert a Vice-Governor or Vice-Mayor into a local chief executive; they remain Sanggunian members under RA 7160, Sec. 91's qualified-practice regime, not Sec. 90's absolute bar.
+
+### Trap 8: "Once a government lawyer resigns, private practice is immediately unrestricted, including before their old office."
+
+Wrong. RA 6713, Sec. 7(b)(2) imposes a one-year post-employment restriction on practicing before the former office, applied strictly in [[In Re Query of Atty. Karen M. Silverio-Buffe]].
+
 ## Rule anchor map
 
 | Category | Main anchor |
@@ -119,12 +142,13 @@ A citation error worth catching in your own notes — the correct anchor is **Ru
 | Absolute: President/VP/Cabinet | Constitution, Art. VII, Sec. 13 |
 | Absolute: Constitutional Commissions | Constitution, Art. IX-A, Sec. 2 |
 | Absolute: Ombudsman/Deputies | Constitution, Art. IX, Sec. 8 |
-| Absolute: judges, superior-court/OSG officials | Rule 138, Sec. 35 |
+| Absolute: judges, superior-court/OSG officials | Rule 138, Sec. 35; [[Ziga v. Judge Arejola]] |
 | Absolute: governors, city/municipal mayors | RA 7160, Sec. 90 |
 | Qualified: Senators/Representatives | Constitution, Art. VI, Sec. 14 |
-| Qualified: Sanggunian members | RA 7160, Sec. 91 |
+| Qualified: Sanggunian members, incl. Vice-Governors/Vice-Mayors | RA 7160, Sec. 91 |
 | Retired Justices/Judges | RA 910, Sec. 1 (proviso) |
 | General public-official restrictions | RA 6713, Sec. 7(b) |
+| Post-employment (one-year) restriction | RA 6713, Sec. 7(b)(2); [[In Re Query of Atty. Karen M. Silverio-Buffe]] |
 
 ## Recall questions
 
@@ -143,6 +167,12 @@ A: In the proviso to Section 1 (the pension provision), not Section 5.
 Q: Does an agency policy permitting private practice excuse a government lawyer from securing individual authorization?  
 A: No. Case-specific express authority, a stated purpose, and an approved leave of absence are still required.
 
+Q: Are Vice-Governors and Vice-Mayors absolutely barred from private practice like governors and mayors?  
+A: No. They remain Sanggunian members under the qualified-practice regime of RA 7160, Sec. 91, despite presiding over their respective Sanggunian.
+
+Q: Does resigning from government service immediately clear a lawyer to practice before their former office?  
+A: No. RA 6713, Sec. 7(b)(2) imposes a one-year post-employment restriction on practicing before the former office.
+
 ## Source ladder
 
 Use sources in this order:
@@ -152,14 +182,15 @@ Use sources in this order:
 3. Rule 138, Sec. 35, Rules of Court.
 4. RA 7160 (Local Government Code), Secs. 90–91.
 5. RA 910, Sec. 1, as amended.
-6. RA 6713 (Code of Conduct and Ethical Standards for Public Officials and Employees), Sec. 7(b).
-7. Supreme Court cases, especially [[Cayetano v. Monsod]], *Funa v. Agra*, and *Yumol, Jr. v. Ferrer, Sr.* (A.C. No. 6585, 2005).
+6. RA 6713 (Code of Conduct and Ethical Standards for Public Officials and Employees), Sec. 7(b), including the Sec. 7(b)(2) post-employment restriction.
+7. Supreme Court cases, especially [[Cayetano v. Monsod]], [[Ziga v. Judge Arejola]], [[In Re Query of Atty. Karen M. Silverio-Buffe]], *Funa v. Agra*, and *Yumol, Jr. v. Ferrer, Sr.* (A.C. No. 6585, 2005).
 8. Private review materials only as reading guides, not as text to copy into the public repository.
 
 ## Related notes
 
 - [[Practice of Law]]
 - [[Appearance of Non-Lawyers]]
+- [[Who May Practice Law]]
 - [[Public Officials and Private Practice Table]]
 - [[Conflict of Interest]]
 - [[Ethics Case Index]]

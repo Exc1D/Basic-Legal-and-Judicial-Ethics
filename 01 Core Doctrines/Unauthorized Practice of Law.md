@@ -49,6 +49,9 @@ A frequent misconception is that the "assist" language only reaches a lawyer who
 - **[[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy|Gonzales, Jr. and Concepcion v. Rivera and Bangoy]]** (A.C. No. 10627, 3 Apr. 2024) — decided squarely under the CPRA. One lawyer who **co-signed a motion** with a disbarred lawyer under the disbarred lawyer's firm name was liable for active assistance; a second lawyer who merely **signed a notice of change of address** as counsel of record was not — a law firm has a juridical personality distinct from its named partners, and a passive, ministerial filing is not the same as holding a disbarred lawyer out as still authorized to practice.
 - **[[Arienda v. Monilla]]** (A.M. No. P-11-2980, 10 June 2013) — a court stenographer, not a lawyer, prepared and finalized an extrajudicial settlement of estate for a fee; because document preparation requiring legal judgment is practice of law under [[Cayetano v. Monsod]], she was liable for simple misconduct even though her "client" was a private arrangement outside her official duties.
 - **[[Ulep v. The Legal Clinic, Inc.]]** — a corporation cannot practice law or hire lawyers as a front to commercialize legal services; see [[Practice of Law]] for the fuller treatment.
+- **[[Cambaliza v. Cristal-Tenorio]]** (A.C. No. 6290, 14 July 2004) — a lawyer allowed her non-lawyer husband to be listed as a "partner" on the firm's letterhead and to carry an ID reading "Atty." This broadens the doctrine beyond who filed a pleading: simply **holding out** a non-lawyer as authorized to practice — through letterhead, an ID, or any public-facing device — is itself the harm the rule targets, whether or not the non-lawyer ever personally appeared in court.
+- **[[Zeta v. Malinao]]** (A.M. No. P-220, 20 Dec. 1978) — a court interpreter, not a lawyer, represented parties in municipal courts and collected fees for it, competing with licensed counsel; he was dismissed from judicial service with a bar against reemployment, illustrating that unauthorized practice by a **non-lawyer court employee** is graver than an ordinary civil-service infraction because it exploits the employee's own insider position within the justice system.
+- **[[Tan, Jr. v. Atty. Gumba]]** (A.C. No. 9000, 10 Jan. 2018) — a lawyer, already suspended, continued filing pleadings and appearing as counsel during her suspension period; the Court added a further six-month suspension on top of the original penalty, reinforcing that practicing while under an active suspension order is treated as a fresh, separately punishable offense, not merely an extension of the same case.
 
 ## What is *not* unauthorized practice
 
@@ -59,8 +62,10 @@ A frequent misconception is that the "assist" language only reaches a lawyer who
 ## Penalties
 
 - **Indirect contempt** under Rule 71, Sec. 3(e) of the Rules of Court, for a non-lawyer assuming to be an attorney and acting as such without authority — fine up to ₱30,000, imprisonment up to six months, or both. (Rule 71 is a separate rule from Rule 138 and was not touched by the CPRA's repeal of Rule 138, Secs. 20–37.)
-- **Discipline as a lawyer**, under the CPRA's Canon VI offense-and-sanction framework, where the person practicing without authority is or was a member of the Bar — as applied in *Bonifacio* and *Gonzales*, this has ranged from a one-month to a three-year suspension depending on whether the conduct was active or merely associative, first or repeat offense.
+- **Discipline as a lawyer**, under the CPRA's Canon VI offense-and-sanction framework, where the person practicing without authority is or was a member of the Bar — as applied in *Bonifacio* and *Gonzales*, this has ranged from a one-month to a three-year suspension depending on whether the conduct was active or merely associative, first or repeat offense. [[Tan, Jr. v. Atty. Gumba]] adds a further wrinkle: practicing law *during an active suspension* is punished as a fresh, separate act of disobedience to the Court's order, stacked on top of the original penalty rather than absorbed into it.
+- **Dismissal from judicial service**, for a non-lawyer court employee who practices law for a fee in competition with licensed counsel — see [[Zeta v. Malinao]], where the falsification of time records to conceal the practice compounded the offense.
 - For a **justice, judge, or court official**, unauthorized practice of law is classified as a **less serious charge** under A.M. No. 21-08-09-SC, carrying suspension without pay for one to three months, or a fine.
+- Discipline is not confined to acts performed while formally "acting as counsel." [[Saladaga v. Astorga]] shows a two-year suspension imposed for serious dishonesty in a purely personal property transaction, and [[Gonzales-Austria v. Abaya]] shows a government-employed lawyer suspended for one year for forging a judicial signature — both confirming that a lawyer's overall moral fitness, not only conduct performed in a client engagement, is what discipline ultimately protects.
 
 ## Related cases
 
@@ -70,6 +75,11 @@ A frequent misconception is that the "assist" language only reaches a lawyer who
 - [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]]
 - [[Arienda v. Monilla]]
 - [[Ulep v. The Legal Clinic, Inc.]]
+- [[Cambaliza v. Cristal-Tenorio]] — holding out a non-lawyer via letterhead and ID, without proof of an actual appearance.
+- [[Zeta v. Malinao]] — a non-lawyer court employee directly representing litigants for a fee.
+- [[Tan, Jr. v. Atty. Gumba]] — practicing during an active suspension as a fresh, separately punishable offense.
+- [[Saladaga v. Astorga]] — discipline for dishonesty in a purely personal transaction, unconnected to any client engagement.
+- [[Gonzales-Austria v. Abaya]] — a government lawyer's official misconduct (forgery) as an independent ground for Bar suspension.
 - [[Cayetano v. Monsod]] — the definition of practice of law that every one of the above cases applies.
 
 ## Bar traps
@@ -129,7 +139,7 @@ Use sources in this order:
 1. CPRA, Canon II, Sec. 35 (Non-delegable legal tasks); Canon III, Sec. 1 (practice of law); Canon VI (discipline); General Provisions, Sec. 2 (repeal of the 1988 CPR).
 2. Rule 71, Sec. 3(e), Rules of Court (indirect contempt for non-lawyers).
 3. A.M. No. 21-08-09-SC, for justices, judges, and court officials.
-4. Supreme Court cases, especially [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]], [[Aguirre v. Rana]], [[Bonifacio v. Atty. Era and Atty. Bragas]], and [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]].
+4. Supreme Court cases, especially [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]], [[Aguirre v. Rana]], [[Bonifacio v. Atty. Era and Atty. Bragas]], [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]], [[Cambaliza v. Cristal-Tenorio]], [[Zeta v. Malinao]], [[Tan, Jr. v. Atty. Gumba]], [[Saladaga v. Astorga]], and [[Gonzales-Austria v. Abaya]].
 5. Private review materials only as reading guides, not as text to copy into the public repository.
 
 ## Related notes
