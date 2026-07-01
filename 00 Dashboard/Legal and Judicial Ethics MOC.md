@@ -3,585 +3,548 @@ tags:
   - moc
   - dashboard
   - legal-ethics
+  - syllabus-focus
   - practice-of-law
+  - cpra-canon-i
 aliases:
   - Legal and Judicial Ethics
   - Legal and Judicial Ethics MOC
   - Legal Ethics Dashboard
-  - Practice of Law — Legal Ethics Dashboard
-  - MOC
-  - Index
   - Practice of Law Map
-  - Practice of Law — Map of Content
+  - CPRA Canon I Map
 status: active
+scope: Syllabus-limited
+course: Basic Legal and Judicial Ethics
 ---
 
 # Legal and Judicial Ethics MOC
 
-This is the home cockpit for the **Basic Legal and Judicial Ethics** vault. Use it to move from broad doctrine → case application → bar traps → active recall → practical exercises.
+This dashboard is now narrowed to the current syllabus slice only:
 
-The vault should not become a dump of review handouts. The goal is to build a **linked doctrine + case + bar-trap + flashcard system** using original summaries and public primary sources.
+1. **A. Practice of Law**
+2. **B. Lawyers' Professional Duties and Responsibilities under the CPRA — Canon I: Independence**
 
-> Public repo rule: keep copyrighted PDFs, screenshots, copied tables, and verbatim review-center text out of GitHub. Use review materials only as private references, then rewrite doctrine, cases, tables, and recall cards in your own words.
+Everything outside those two blocks is deprioritized for now. Do not build Judicial Ethics, Notarial Practice, CPRA Canons II-VI, practical exercises, or extra tables until the syllabus reaches them.
 
 ---
 
-## Home dashboard
+## Status legend
 
-### Start here
-
-| Need | Go to | Output |
+| Mark | Meaning | Use |
 |---|---|---|
-| Learn the foundation | [[Practice of Law]] · [[Admission to the Bar]] · [[Continuing Requirements for the Practice of Law]] | Core doctrine notes with rule, elements, exceptions, cases, traps, and recall questions |
-| Review lawyer duties | [[CPRA Canon Index]] · [[Canon I - Independence]] · [[Canon II - Propriety]] · [[Canon III - Fidelity]] · [[Canon IV - Competence and Diligence]] · [[Canon V - Equality]] · [[Canon VI - Accountability]] | Canon-by-canon rule map |
-| Drill technical rules | [[Notarial Practice]] · [[Notarial Defects and Sanctions Table]] · [[Remote Notarization]] | Notarial mini-vault |
-| Separate judges from lawyers | [[New Code of Judicial Conduct]] · [[Judicial Independence]] · [[Judicial Integrity]] · [[Judicial Impartiality]] · [[Judicial Propriety]] · [[Judicial Equality]] · [[Judicial Competence and Diligence]] | Judicial ethics map |
-| Build exam tables | [[Appearance of Non-Lawyers - Comparison Table]] · [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]] · [[Public Officials and Private Practice Table]] · [[Conflict of Interest Decision Tree]] | Fast attack sheets |
-| Practice active recall | [[Legal Ethics Bar Traps]] · [[Legal Ethics Flashcards]] · [[Ethics Case Index]] | Bar traps, flashcards, and case anchors |
-| Draft practical forms | [[Practical Exercises Index]] · [[Demand Letters]] · [[Verification and Certification Against Forum Shopping]] · [[Motions]] · [[Information in Criminal Cases]] | Practical-exercise checklist |
-
-### Major ethics areas
-
-| Area | Scope | Main launchpad |
-|---|---|---|
-| Practice of Law and Admission | Who may practice, what counts as law practice, admission, oath, membership, and continuing obligations | [[Practice of Law]] |
-| Lawyer Duties under the CPRA | Independence, propriety, fidelity, competence, equality, and accountability | [[CPRA Canon Index]] |
-| Notarial Practice | Commission, powers, limitations, register, identity, remote notarization, and sanctions | [[Notarial Practice]] |
-| Judicial Ethics | New Code of Judicial Conduct, judge qualities, inhibition, discipline, and clemency | [[New Code of Judicial Conduct]] |
-| Practical Exercises | Common bar drafting outputs and form-based ethical risks | [[Practical Exercises Index]] |
-| Cases, Bar Traps, and Recall | Case digest spine, repeated traps, and flashcards | [[Ethics Case Index]] |
-
-### Fast routes
-
-- **First-time review:** [[Practice of Law]] → [[Admission to the Bar]] → [[Continuing Requirements for the Practice of Law]] → [[CPRA Canon Index]]
-- **CPRA review:** [[Canon I - Independence]] → [[Canon II - Propriety]] → [[Canon III - Fidelity]] → [[Canon IV - Competence and Diligence]] → [[Canon V - Equality]] → [[Canon VI - Accountability]]
-- **Table sprint:** [[Appearance of Non-Lawyers - Comparison Table]] → [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]] → [[Public Officials and Private Practice Table]] → [[Legal Ethics Sanctions Table]]
-- **Judicial ethics sprint:** [[New Code of Judicial Conduct]] → [[Disqualification and Inhibition of Judges]] → [[Discipline of Judges and Court Personnel]]
-- **Memory sprint:** [[Legal Ethics Bar Traps]] → [[Legal Ethics Flashcards]] → [[Ethics Case Index]]
-
-### Dashboard checkpoints
-
-- [x] Home dashboard links to all major ethics areas.
-- [x] The older [[Legal and Judicial Ethics]] note has been merged into this structured MOC.
-- [x] The clean [[Practice of Law]] doctrine note exists in `01 Core Doctrines/`.
-- [ ] Each major area has its own index note.
-- [ ] Each index note links to rules, cases, traps, and recall cards.
-- [ ] Each high-yield table is rewritten in original language.
-- [ ] No copyrighted PDF or copied reviewer table is committed to the public repo.
+| ✅ | reviewed | usable for class review and recitation |
+| 🟡 | seed | exists but needs doctrine/case strengthening |
+| 🔴 | missing | create the note or digest |
+| ⏸️ | backlog | intentionally out of current scope |
 
 ---
 
-## Daily study flow
+## Current study route
 
-1. Pick one item from **Today’s build queue**.
-2. Create or improve its doctrine note.
-3. Link at least one case.
-4. Add one **bar trap**.
-5. Add 3 recall questions.
-6. Move the note from `status: seed` to `status: reviewed` when it becomes usable for bar review.
+Follow the exact syllabus order, not a rearranged workflow:
 
----
-
-## Today’s build queue
-
-- [ ] Build out `03 Judicial Ethics` (New Code of Judicial Conduct, judicial independence/integrity/impartiality/propriety/equality/competence, disqualification and inhibition, discipline) — currently a README stub only.
-- [ ] Build out `04 Notarial Practice` (Notary Public, qualifications, powers, prohibited acts, register, competent evidence of identity, remote notarization) — currently a README stub only.
-- [ ] Write individual CPRA sub-canon notes for Canons II–VI (Canon I is now built — see the CPRA map below).
-- [ ] Digest the cases in "High-yield cases to add next," verified against Lawphil/SC E-Library.
-- [ ] Build the remaining tables: [[Conflict of Interest Decision Tree]], [[Legal Ethics Sanctions Table]], [[Notarial Defects and Sanctions Table]], [[Judicial Discipline - Charges and Sanctions Table]].
+1. [[Practice of Law]]
+2. [[The Practice of Law as "A Mere Privilege, Not a Right" in Philippine Legal Ethics|Practice of Law: A Mere Privilege, Not a Right]]
+3. [[The Practice of Law as a Profession, Not a Business or Trade]]
+4. [[Pimentel v. Legal Education Board|Supervision and Control of the Legal Profession]]
+5. [[Admission to the Bar]]
+6. [[Continuing Requirements for the Practice of Law]]
+7. [[Who May Practice Law]]
+8. [[Privileges of a Lawyer]]
+9. [[Unauthorized Practice of Law]]
+10. [[Canon I - Independence]]
 
 ---
 
-## Core doctrine spine
+# A. Practice of Law
 
-These are the first notes to build because they explain who may practice law, what counts as practice, and why the privilege can be lost.
+## 1. Basic Concepts
 
-- [[Practice of Law]] — definition, scope, in-court and out-of-court legal service, and CPRA Canon III, Section 1.
-- [[The Practice of Law as "A Mere Privilege, Not a Right" in Philippine Legal Ethics|Practice of Law: A Mere Privilege, Not a Right]] — the privilege theory of law practice.
-- [[The Practice of Law as a Profession, Not a Business or Trade]] — public service, dignity of the profession, advertising, solicitation, and commercialization limits.
-- [[Admission to the Bar]] — citizenship, legal age, good moral character, finality of any moral-turpitude charge, and academic/CLEP requirements under Rule 138 as amended by A.M. No. 24-10-05-SC (2025).
-- [[Continuing Requirements for the Practice of Law]] — PTR, IBP membership/good standing, IBP dues, MCLE, good moral character, legal aid (ULAS), and citizenship.
-- [[Revised Lawyer's Oath]] — oath as ethical north star: Constitution, rule of law, truth, justice, equality, integrity, and civility.
-- [[Law Student Practice Rule]] — Level 1 and Level 2 certification, scope, and revocation.
-- [[Appearance of Non-Lawyers]] — when non-lawyers may appear before courts, labor tribunals, cadastral courts, DARAB, or other bodies.
-- [[Prohibited Proceedings for Lawyers]] — Katarungang Pambarangay, small claims, and IPRA exceptions.
-- [[Public Officials and Private Practice]] — absolute prohibitions, qualified prohibitions, and retired judges/justices.
-- [[Unauthorized Practice of Law]] — non-lawyers performing lawyer-exclusive acts, and lawyers practicing without current authority; the CPRA's Canon II, Sec. 35 successor to "Canon 9."
-- [[Signing of the Roll of Attorneys]] — the oath and the Roll as two distinct, indispensable steps; *Aguirre v. Rana* versus *In Re: Medado*.
-- [[Revised Lawyer's Oath]] — the 2023-revised oath's full text, why it changed, and its role as a continuing disciplinary touchstone, not just an admission formality.
-- [[Who May Practice Law]] — roadmap note distinguishing members in good standing, suspended/disbarred lawyers, non-members with limited practice rights, restricted public officials, and foreign lawyers.
-- [[Foreign Lawyers]] — the general exclusion of foreign-qualified lawyers and the narrow international-arbitration exception.
-- [[Privileges of a Lawyer]] — national right to appear before any court, privileged communication, privileged pleading statements, and attorney's liens.
+### a. Definition and Nature — ✅/🟡
 
----
+Main doctrine note: [[Practice of Law]]
 
-## CPRA map
+The existing foundation note is already marked reviewed, but individual case digests should still be completed in `05 Cases/` using the standard digest format.
 
-Use this section as the vault’s CPRA index. Each Canon note should have this structure: **rule → exception → case → bar trap → flashcards**.
+Assigned cases:
 
-### Canon I — Independence
+- [[Cayetano v. Monsod]]
+- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy|Gonzales, Jr. v. Rivera]]
+- [[People vs. Simplicio Villanueva|People v. Villanueva]]
+- [[People of the Philippines v. Hon. Bonifacio Sanz Maceda and Avelino T. Javellana|People v. Maceda]]
+- [[Arienda v. Monilla|Arienda v. Court Stenographer of Manila]]
+- [[Office of the Court Administrator vs. Atty. Misael M. Ladaga|OCA v. Atty. Ladaga]]
+- [[Ulep v. The Legal Clinic, Inc.]]
+- [[Maderada v. Judge Mediodea|Maderada v. Mediodea]]
+- [[New Sampaguita Builder Construction, Inc. v. Philippine National Bank]]
+- [[Bonifacio v. Atty. Era and Atty. Bragas|Bonifacio v. Era]]
+- [[Canonoy vs. Atty. Guibone|Canonoy v. Atty. Guibone]]
 
-- [[Canon I - Independence]] — independent, accessible, efficient, and effective legal service; non-interference by a lawyer. *Jacolbia v. Atty. Panganiban*.
-- [[Merit-Based Practice]] — no influence peddling, appearance of influence, or undermining tribunals. *Judge Dumlao, Jr. v. Atty. Camacho*, *Jimenez and Vizconde v. Atty. Verano, Jr.*, *Vantage Lighting Philippines v. Atty. Diño, Jr.*
-- [[Freedom from Improper Considerations and External Influences]] — no friendly courts, friendly prosecutors, dishonest influence, or pressure. No case assigned.
-- [[Lawyer's Duty and Discretion in Procedure and Strategy]] — client decides objectives and settlement; lawyer controls lawful procedure and strategy. *Olvida v. Gonzales*.
+Doctrine targets:
 
-### Canon II — Propriety
+- Definition of practice of law
+- In-court and out-of-court practice
+- Habituality versus legal judgment
+- Self-representation versus representation of another
+- Corporate practice of law
+- Effect of suspension, disbarment, detention, or lack of authority
 
-- [[Canon II - Propriety]] — propriety in personal and professional dealings.
-- [[Proper and Dignified Conduct]] — unlawful, dishonest, immoral, deceitful, scandalous, or discrediting conduct.
-- [[Gender-Fair Child-Sensitive and Culturally-Sensitive Language]] — dignified language in pleadings, communications, and social media.
-- [[Candor to the Court]] — no misquoting, misrepresentation, misleading authority, or passing off another’s words.
-- [[False Representations and Duty to Correct]] — false statements, demand letters, and correction duties.
-- [[Duty to Report Dishonest Deceitful or Misleading Conduct]] — reporting duties and confidentiality boundaries.
-- [[Non-Solicitation and Impermissible Advertisement]] — dignified, factual, verifiable, non-self-laudatory information only.
-- [[Sub Judice Rule]] — public comments that may prejudge, sway perception, tarnish the court, or create perception of guilt/innocence.
-- [[Disclosure of Relationship or Connection]] — first-available-opportunity disclosure of connections that may trigger inhibition.
-- [[Gift-Giving and Donations to Courts]] — prohibition against gifts, donations, and contributions to courts or court personnel.
-- [[Forum Shopping and Multiple Cases]] — multiple actions, leverage suits, harassment suits, and delay tactics.
-- [[Encroachment on Another Lawyer's Engagement]] — no communicating or dealing with a represented person except through allowed channels.
+Bar traps:
 
-### Responsible use of social media
-
-- [[Responsible Use of Social Media]] — benefits, risks, and ethical implications.
-- [[Online Posts by Lawyers]] — dignity of profession even in restricted privacy settings.
-- [[False or Unverified Online Statements]] — disinformation and malicious sharing.
-- [[Fraudulent Social Media Accounts]] — hidden identity accounts used to circumvent law or CPRA.
-- [[Confidentiality in Social Media]] — no direct or indirect disclosure of client confidences.
-- [[Influence Through Social Media]] — no social-media communications to influence court or agency officers.
-- [[Legal Information vs Legal Advice Online]] — general legal information vs Limited Legal Service.
-- [[Social Media and Conflict of Interest]] — prudence in posts that may violate conflict rules.
-
-### Canon III — Fidelity
-
-- [[Canon III - Fidelity]] — Constitution, laws, administration of justice, and client cause within truth and law.
-- [[Lawyer-Client Relationship]] — how it begins; express and implied acceptance; fiduciary character.
-- [[Authority of Lawyer to Bind Client]] — written authority, compromise, and special power of attorney.
-- [[Authority of Lawyer to Appear]] — presumption of authority and when proof may be required.
-- [[Fiduciary Duty of a Lawyer]] — trust, confidence, non-abuse, non-exploitation.
-- [[Lawyer's Duty to Encourage Settlement]] — compromise, mediation, and avoiding needless litigation.
-- [[Client Fraud and Rectification]] — call client to rectify fraud; termination if needed.
-- [[Supervisory Responsibility of Lawyers]] — subordinate lawyers, paralegals, employees, and supervised lawyers.
-- [[Conflict of Interest]] — current clients, former clients, prospective clients, government service, and written informed consent.
-- [[Limited Legal Services]] — scope, duties, and risks.
-- [[Attorney's Fees]] — written fee agreements, quantum meruit, unconscionable fees, retainers, charging lien, retaining lien.
-- [[Termination of Engagement]] — by lawyer, by client, by death, and turnover/accounting duties.
-
-### Canon IV — Competence and Diligence
-
-- [[Canon IV - Competence and Diligence]] — legal knowledge, skill, preparation, thoroughness, and promptness.
-- [[Diligence in Legal Matters]] — deadlines, appeals, client communication, and neglect.
-- [[Lawyer's Duty to Keep Client Informed]] — status updates, material developments, and consequences.
-- [[Duty to Preserve Client Documents and Property]] — records, evidence, files, and funds.
-
-### Canon V — Equality
-
-- [[Canon V - Equality]] — equal treatment, non-discrimination, and access to justice.
-- [[Gender-Fair and Inclusive Law Practice]] — language, treatment, and sensitivity in law practice.
-- [[Vulnerable Clients and Access to Justice]] — meaningful access and humane lawyering.
-
-### Canon VI — Accountability
-
-- [[Canon VI - Accountability]] — disciplinary jurisdiction, procedure, sanctions, and effect of discipline.
-- [[Lawyer Discipline]] — disbarment, suspension, fines, reprimand, warning, and stern warning.
-- [[Administrative Complaint Against Lawyers]] — filing, investigation, prima facie evaluation, IBP/OBC processes.
-- [[Preventive Suspension of Lawyers]] — grounds, effect, and limits.
-- [[Judicial Clemency for Lawyers]] — eligibility, criteria, clear-and-convincing evidence, and reinstatement.
+- Court appearance is not the only practice of law.
+- Passing the Bar is not enough; oath and Roll are separate requisites.
+- Self-representation is not practice of law for another.
+- A corporation cannot practice law through employed lawyers.
 
 ---
 
-## Notarial practice map
+### b. A Mere Privilege, Not a Right — 🟡
 
-Notarial practice deserves its own mini-vault because examiners love mixing facts with small technical requirements.
+Main doctrine note: [[The Practice of Law as "A Mere Privilege, Not a Right" in Philippine Legal Ethics|Practice of Law: A Mere Privilege, Not a Right]]
 
-- [[Notarial Practice]] — why notarization is not an empty or routinary act.
-- [[Notary Public]] — commission, jurisdiction, powers, and duties.
-- [[Qualifications of a Notary Public]] — who may be commissioned.
-- [[Powers of a Notary Public]] — acknowledgment, oath/affirmation, jurat, signature witness, copy certification, and authorized acts.
-- [[Prohibited Notarial Acts]] — outside regular place, no personal appearance, improper identity, conflicts, and defects.
-- [[Notarial Register]] — one active register, chronological entries, inspection, and sanctions.
-- [[Competent Evidence of Identity]] — current government ID with photograph and signature; personal knowledge; credible witness rules.
-- [[Remote Notarization]] — scope, requirements, risks, and exam traps.
-- [[Notarial Practice Bar Traps]] — personal appearance, CTC misuse, expired commission, defective register, and false acknowledgment.
+Doctrine targets:
+
+- Practice of law is a privilege burdened with conditions.
+- The Supreme Court controls admission, discipline, suspension, disbarment, and reinstatement.
+- A lawyer's privilege may be limited by detention, suspension, disbarment, public office, or failure to maintain good standing.
 
 ---
 
-## Judicial ethics map
+### c. Practice of Law as a Profession, Not a Business or Trade — 🟡
 
-Use the New Code of Judicial Conduct as a separate branch. Judges and lawyers share ethical themes, but the standards and penalties are tested differently.
+Main doctrine note: [[The Practice of Law as a Profession, Not a Business or Trade]]
 
-- [[New Code of Judicial Conduct]] — overview and structure.
-- [[Judicial Independence]] — individual and institutional independence.
-- [[Judicial Integrity]] — moral uprightness, public confidence, and conduct beyond the courtroom.
-- [[Judicial Impartiality]] — actual impartiality and appearance of impartiality.
-- [[Judicial Propriety]] — conduct that avoids impropriety and appearance of impropriety.
-- [[Judicial Equality]] — equal treatment of parties, lawyers, witnesses, and court users.
-- [[Judicial Competence and Diligence]] — prompt disposition, legal competence, administrative supervision.
-- [[Disqualification and Inhibition of Judges]] — mandatory disqualification, voluntary inhibition, relationships, bias, and prior participation.
-- [[Discipline of Judges and Court Personnel]] — serious, less serious, and light charges; sanctions; aggravating and mitigating factors.
+Assigned cases:
 
----
+- [[Burbe v. Atty. Magulta]]
+- [[Rosario, Jr. v. De Guzman|Rosario v. De Guzman]]
 
-## Practical exercises map
+Doctrine targets:
 
-Use this area for short drafting checklists. Keep the notes practical, ethics-aware, and easy to rehearse under time pressure.
-
-- [[Practical Exercises Index]] — central page for form-based outputs.
-- [[Promissory Notes and Simple Loan Agreements]] — parties, amount, due date, interest, default, signatures.
-- [[Demand Letters]] — facts, demand, legal basis, deadline, tone, and attachments.
-- [[Sale Documents]] — object, price, warranties, delivery, and acknowledgments.
-- [[Lease Contract]] — parties, property, term, rent, deposits, duties, termination.
-- [[Special Power of Attorney]] — authority granted, object, scope, limits, and notarization.
-- [[Verification and Certification Against Forum Shopping]] — truth statement, non-forum-shopping certification, authority to sign.
-- [[Motions]] — relief, grounds, prayer, notice, service, and proof.
-- [[Quitclaims in Labor Cases]] — voluntariness, consideration, fairness, and waiver limits.
-- [[Information in Criminal Cases]] — offense charged, acts or omissions, qualifying/aggravating circumstances, venue, date, and accused.
+- Lawyering is public service, not ordinary commerce.
+- Fees are compensation, not the primary object of the profession.
+- Commercialization, solicitation, and advertising must be checked against professional dignity.
 
 ---
 
-## Attack sheets and comparison tables
+## 2. Supervision and Control of the Legal Profession — 🟡
 
-These are the fastest pre-bar review notes. Build them as short, clean, exam-facing tables.
+Main doctrine note: [[Admission to the Bar]]
 
-- [[Appearance of Non-Lawyers - Comparison Table]]
-  - MTC/first-level courts
-  - RTC and other courts
-  - NLRC/Labor Arbiter
-  - Cadastral court
-  - DARAB and agencies
+Assigned case:
 
-- [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]]
-  - Katarungang Pambarangay
-  - Small claims
-  - IPRA customary proceedings
+- [[Pimentel v. Legal Education Board|Pimentel, et al. v. Legal Education Board]]
 
-- [[Public Officials and Private Practice Table]]
-  - absolutely prohibited
-  - qualified prohibition
-  - retired judges and justices
-  - special-law prohibitions
+Doctrine targets:
 
-- [[Conflict of Interest Decision Tree]]
-  - current client?
-  - former client?
-  - prospective client?
-  - government service?
-  - written informed consent possible?
-
-- [[Legal Ethics Sanctions Table]]
-  - reprimand
-  - fine
-  - suspension
-  - disbarment
-  - judicial clemency/reinstatement
-
-- [[Notarial Defects and Sanctions Table]]
-  - no personal appearance
-  - no competent evidence of identity
-  - defective register
-  - expired commission
-  - notarization outside jurisdiction/place
-
-- [[Judicial Discipline - Charges and Sanctions Table]]
-  - serious charges
-  - less serious charges
-  - light charges
-  - administrative liability of court personnel
+- Supreme Court power over admission to the practice of law.
+- Legal Education Board power over legal education.
+- Difference between regulating law schools and controlling who becomes a lawyer.
 
 ---
 
-## Existing case spine
+## 3. Admission to the Practice of Law — 🟡
 
-These are the current case anchors already linked in this MOC. Keep improving them with a uniform case-digest template.
+Main doctrine note: [[Admission to the Bar]]
 
-### What “practice of law” means
+### a. Legal Education
 
-- [[Cayetano v. Monsod]] — broad definition: legal knowledge, training, and experience in or out of court.
-- [[People vs. Simplicio Villanueva]] — habituality and compensation; isolated appearance does not necessarily equal private practice.
-- [[Ulep v. The Legal Clinic, Inc.]] — corporations cannot practice law; legal-support services may still be legal practice.
-- [[Sps. Agbulos v. Gutierrez]] — presumption of a lawyer's continuing authority to appear on appeal; ratification of a technically unauthorized appearance.
+Subtopics:
 
-### Law as a profession, not a business
+- Pre-Law
+- Law Proper
+- [[Legal Education Reform Act|R.A. No. 7662 — Legal Education Reform Act]]
 
-- [[The Practice of Law as a Profession, Not a Business or Trade]] — doctrinal treatment.
-- [[Ulep v. The Legal Clinic, Inc.]] — commercialized legal services and misleading ads.
-- [[Zamora vs. Atty. Gallanosa]] — ambulance chasing, encroachment, and neglect.
-- [[Burbe v. Atty. Magulta]] — lawyering as public service; misuse of client funds.
+### b. Citizenship
 
-### Attorney-client relationship
+Assigned cases:
 
-- [[Burbe v. Atty. Magulta]] — relationship begins even without formal retainer if advice/services are accepted.
-- [[Zamora vs. Atty. Gallanosa]] — consultation and drafting may establish the relationship.
-- [[Rosario, Jr. v. De Guzman]] — compensation and relationship issues after long representation.
+- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In Re: Petition to Re-acquire the Privilege to Practice Law in the Philippines]]
+- [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching|In Re: Application for Admission to the Philippine Bar of Vicente Ching]]
 
-### Fiduciary duty and client funds
+### c. Good Moral Character
 
-- [[Burbe v. Atty. Magulta]] — trust funds, filing fees, and conversion.
-- [[Yamon-Leach vs. Atty. Astorga]] — misappropriation, falsification, repeated misconduct, and disbarment.
+Assigned case:
 
-### Attorney’s fees
+- [[Garrido v. Attys. Garrido and Valencia]]
 
-- [[Rosario, Jr. v. De Guzman]] — ordinary attorney’s compensation, extraordinary attorney’s fees, quantum meruit, and written fee arrangements.
+### d. Bar Examinations
 
-### CPRA Canon I — Independence
+Doctrine targets:
 
-- [[Jacolbia v. Atty. Panganiban]] — twelve years of inaction plus refusal to return client funds and documents; accessible/efficient/effective legal service.
-- [[Judge Dumlao, Jr. v. Atty. Camacho]] — namedropping Justices, a bribery offer to a judge, threats to a sheriff; merit-based practice.
-- [[Jimenez and Vizconde v. Atty. Verano, Jr.]] — lobbying the DOJ Secretary; influence peddling beyond the regular courts.
-- [[Vantage Lighting Philippines v. Atty. Diño, Jr.]] — claiming a TRO could be bought, plus retaliatory suits against a former client; disbarment.
-- [[Olvida v. Gonzales]] — neglect of a DARAB position paper and dishonesty; lawyer's discretion over procedure and strategy.
+- Current Rule 138 requirements
+- Academic requirements
+- Bar eligibility
+- Good moral character as both admission and continuing requirement
 
-### Unauthorized practice of law
+### e. The Revised Lawyer's Oath
 
-- [[Ulep v. The Legal Clinic, Inc.]] — corporate practice ban.
-- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — a lawyer's own unauthorized practice; mistake of fact versus mistake of law.
-- [[Bonifacio v. Atty. Era and Atty. Bragas]] — suspended lawyer continuing to practice; assisting unauthorized practice.
-- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer and co-signing pleadings; active versus passive assistance.
-- [[Arienda v. Monilla]] — non-lawyer court employee preparing legal documents.
-- [[Cambaliza v. Cristal-Tenorio]] — holding out a non-lawyer as "Atty." via letterhead and ID.
-- [[Zeta v. Malinao]] — non-lawyer court interpreter directly representing litigants for a fee.
-- [[Tan, Jr. v. Atty. Gumba]] — practicing during an active suspension as a fresh, separate offense.
-- [[Saladaga v. Astorga]] — discipline for dishonesty in a purely personal transaction.
+Main doctrine note: [[Revised Lawyer's Oath]]
 
-### Government and court employees
+Assigned cases:
 
-- [[People vs. Simplicio Villanueva]] — isolated appearance by city attorney.
-- [[Office of the Court Administrator vs. Atty. Misael M. Ladaga]] — judiciary employee needs prior written Supreme Court permission.
-- [[Maderada v. Judge Mediodea]] — self-representation distinguished from representing another.
-- [[Arienda v. Monilla]] — integrity of court personnel in private dealings.
-- [[Ziga v. Judge Arejola]] — a judge's continued appearance in a pre-appointment family case; no exception.
-- [[In Re Query of Atty. Karen M. Silverio-Buffe]] — one-year post-employment restriction on practicing before a former office.
-- [[Gonzales-Austria v. Abaya]] — government misconduct (forgery) as an independent Bar-discipline ground.
+- [[Katipunan v. Atty. Carrera|Katipunan, Jr. v. Carrera]]
+- [[Santos v. Atty. Paña]]
+- [[Pante v. Atty. Tebelin]]
 
-### Candor, misconduct, and the Lawyer’s Oath
+Doctrine targets:
 
-- [[Rufina Luy Lim vs. Atty. Manuel V. Mendoza]] — inconsistent sworn positions, misleading the court, intemperate language, and missing professional details.
-- [[Yamon-Leach vs. Atty. Astorga]] — forged documents, misappropriation, and defiance of Supreme Court directives.
-- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — insubordination independent of substantive charge.
-- [[Canonoy vs. Atty. Guibone]] — suspension reckoning date and compliance manipulation.
+- Revised Lawyer's Oath as admission requirement
+- Oath as continuing ethical standard
+- Oath violations in disciplinary cases
 
-### Admission, citizenship, moral character, and reinstatement
+### f. Signing in the Roll of Attorneys
 
-- [[In re Argosino, B.M. No. 712]] — moral character, rehabilitation, and oath-taking.
-- [[Aguirre v. Rana]] — unauthorized practice before signing the Roll; privilege denied even after passing the bar.
-- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — decades of practice on an unsigned Roll; belated signing allowed only with a penalty.
-- [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — IBP dues, integration, disbarment, and reinstatement.
-- [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching]] — election of citizenship must be timely; passing the Bar does not cure an untimely election.
-- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] — RA 9225 reacquisition does not automatically restore the practice privilege.
-- [[Garrido v. Attys. Garrido and Valencia]] — good moral character as a continuing requirement; disbarment regardless of timing.
-- [[Pimentel v. Legal Education Board]] — the Court's exclusive admission power versus LEB's power over legal education.
+Main doctrine note: [[Signing of the Roll of Attorneys]]
 
-### The Lawyer's Oath as a continuing standard
+Assigned case:
 
-- [[Katipunan v. Atty. Carrera]] — the oath invoked in an ordinary diligence/client-communication case.
-- [[Santos v. Atty. Paña]] — falsification of court documents as a direct oath violation.
-- [[Pante v. Atty. Tebelin]] — fiduciary betrayal and client borrowing as an oath violation; source of the oath's verified full text.
+- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado|In Re: Petition to Sign in the Roll of Attorneys Michael Medado]]
 
-### Discipline and mechanics
+Doctrine targets:
 
-- [[Almacen, 31 SCRA 562 (G.R. No. L-27654, February 18, 1970)]] — disciplinary power, sui generis proceedings, and limits of criticism.
-- [[Canonoy vs. Atty. Guibone]] — suspension begins on receipt; lifting requires sworn compliance.
-- [[Calixto vs. Atty. Baleros]] — constructive receipt and notarial misconduct.
-- [[Bonifacio v. Atty. Era and Atty. Bragas]] — practicing during suspension.
-- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — discipline after disbarment and OBC record.
-- [[Rufina Luy Lim vs. Atty. Manuel V. Mendoza]] — recidivism and escalation.
-- [[Yamon-Leach vs. Atty. Astorga]] — cumulative liability across multiple cases.
-
-### When the privilege yields
-
-- [[People of the Philippines v. Hon. Bonifacio Sanz Maceda and Avelino T. Javellana]] — detention prisoners cannot practice law.
-
-### Related but distinct
-
-- [[New Sampaguita Builders Construction, Inc. and Spouses Dee vs. Philippine National Bank]] — banking/civil law case; keep only if needed for Justice Panganiban links or separate civil-law vault references.
+- Oath and Roll are distinct.
+- Passing the Bar does not authorize practice.
+- Unauthorized practice between oath and Roll has disciplinary consequences.
 
 ---
 
-## High-yield cases to add next
+## 4. Continuing Requirements for Membership in the Bar — 🟡
 
-Use this list to expand beyond the existing Practice of Law case spine.
+Main doctrine note: [[Continuing Requirements for the Practice of Law]]
 
-### CPRA and lawyer propriety
+### a. Mandatory Continuing Legal Education — MCLE
 
-- [[Reyes v. Atty. Sebrio]] — influence peddling and merit-based practice.
-- [[Dongga-as v. Cruz-Angeles]] — friendly court/judge/prosecutor representation.
-- [[Manalang v. Atty. Buendia]] — dishonest and deceitful conduct.
-- [[Ceniza v. Atty. Ceniza]] — immoral conduct and fitness to practice.
-- [[Atty. Nava v. Atty. Artuz]] — courtesy, dignity, and civility among lawyers.
-- [[Caronan v. Caronan]] — false identity, good moral character, and admission to the profession.
-- [[Linsangan v. Atty. Tolentino]] — solicitation and lawyer advertising.
-- [[Atty. Khan v. Atty. Simbillo]] — practice of law is not a business.
-- [[Republic v. Sereno]] — sub judice rule.
-- [[In Re Atty. Gadon]] — responsible social media use.
-- [[Lao v. Atty. Causing]] — online speech, restraint, and public trial by social media.
+Assigned case:
 
-### Fiduciary duties and conflicts
+- [[Turla v. Atty. Caringal|Marilu C. Turla v. Atty. Jose M. Caringal]]
 
-- [[Nakpil v. Valdes]] — fiduciary nature of attorney-client relationship.
-- [[Ramirez v. Atty. Margallo]] — lawyer bears cost of indifference or negligence.
-- [[Spouses Niles v. Atty. Retardo]] — conflict of interest and appearance of treachery.
-- [[Artezuela v. Atty. Maderazo]] — hidden assistance to adverse party as conflict.
-- [[Dalisay v. Atty. Mauricio]] — client fraud and duty to rectify/terminate.
+### b. Membership Dues
 
-### Discipline, notarial practice, and clemency
+### c. Professional Tax
 
-- [[In Re Petition for Judicial Clemency of Romulo L. Ricafort]] — judicial clemency requirements.
-- [[Nunga v. Viray]] — notarization as substantive public-interest act.
-- [[Roabuenafe v. Atty. Lirazan]] — notarial register defects and sanctions.
-- [[Chua Keng Sin v. Mangente]] — competent evidence of identity and notarial safeguards.
+### d. Legal Aid
 
-### Judicial ethics
+Doctrine targets:
 
-- [[Dela Cruz v. Judge Bersamira]] — integrity and personal behavior of judges.
-- [[Tan v. Judge Rosete]] — judges as embodiment of competence, integrity, and independence.
-- [[Sison-Baris v. Rubia]] — appearance of impartiality.
+- Good and regular standing
+- MCLE compliance
+- IBP membership and dues
+- PTR
+- Legal aid obligations
+- Continuing good moral character
+- Citizenship
 
 ---
 
-## Case-digest template
+## 5. Who May Practice Law — 🟡
 
-Use this template for every case note.
+Main doctrine note: [[Who May Practice Law]]
 
-```markdown
----
-type: case
-subject: Legal and Judicial Ethics
-topic:
-doctrine:
-status: seed
-tags:
-  - ethics/case
----
+### a. Members of the Bar
 
-# Case Name
+Subtopic:
 
-## Facts
-One to three sentences only.
+- Suspended or disbarred lawyers
 
-## Issue
-What ethical rule was violated or applied?
+### b. Non-Members of the Bar
 
-## Held
-What did the Court rule?
+Main doctrine notes:
 
-## Doctrine
-State the rule in exam-ready language.
+- [[Law Student Practice Rule]]
+- [[Appearance of Non-Lawyers]]
 
-## Bar Trap
-What mistake would a bar taker likely make?
+Assigned case:
 
-## Related Rules
-- [[Canon I - Independence]]
-- [[Canon II - Propriety]]
-- [[Canon III - Fidelity]]
-```
+- [[Cruz v. Mina]]
 
----
+Subtopics:
 
-## Doctrine-note template
+- Law Student Practice Rule, as amended by A.M. No. 19-03-24-SC
+- Paralegals
+- Parties and agents / appearance pro se
+- Cadastral proceedings
+- Labor cases
+- Agrarian reform proceedings
+- Barangay conciliation
+- Cases under expedited procedure
+- Arbitration
 
-Use this template for rule notes.
+### c. Members of the Bar Prohibited from Private Practice
 
-```markdown
----
-type: doctrine
-subject: Legal and Judicial Ethics
-area:
-canon:
-section:
-status: seed
-bar_weight: high
-tags:
-  - ethics/doctrine
----
+Main doctrine note: [[Public Officials and Private Practice]]
 
-# Doctrine Title
+Assigned case:
 
-## Rule
-Write the rule in your own words.
+- [[Ziga v. Judge Arejola]]
 
-## Elements / Requirements
-1.
-2.
-3.
+Subtopics:
 
-## Exceptions
-- 
+- President, Vice-President, Members of the Cabinet, their Deputies and Assistants
+- Senators and Members of the House of Representatives
+- Members of the Constitutional Commissions
+- Ombudsman and Deputies
+- Justices, Judges, and Court Employees
+- Governors and Mayors
+- Government Officials and Employees
 
-## Related Cases
-- [[]]
+### d. Members of the Bar with Limited Legal Practice
 
-## Bar Trap
-The usual wrong answer is...
+Main doctrine note: [[Public Officials and Private Practice]]
 
-## Recall Questions
-Q: 
-A: 
+Subtopics:
 
-Q: 
-A: 
+- Vice-Governors, Vice-Mayors, and Members of Local Legislative Bodies
+- Government lawyers with authority to engage in limited law practice
+- Government lawyers separated from the service
+- Retired judges and justices
+- Small claims and Katarungang Pambarangay
 
-Q: 
-A: 
-```
+### e. Foreign Lawyers
+
+Main doctrine note: [[Foreign Lawyers]]
+
+Doctrine targets:
+
+- General rule: only Philippine Bar members in good standing may practice.
+- Exceptions are narrow and source-specific.
+- Public office may absolutely prohibit or merely limit private practice.
+- Foreign lawyers are generally excluded except where law or special rules allow limited participation.
 
 ---
 
-## Flashcard pattern
+## 6. Privileges of a Lawyer — 🟡
 
-Use direct, short prompts. Avoid paragraph answers.
+Main doctrine note: [[Privileges of a Lawyer]]
 
-```markdown
-## Recall
-Q: What are the continuing requirements for the practice of law?
-A: PTR, IBP good standing/membership, IBP dues, MCLE, good moral character, legal aid compliance, and citizenship.
+Doctrine targets:
 
-## Distinction
-Q: Distinguish legal information from legal advice online.
-A: Legal information is general; legal advice applies law to a specific factual situation and may create duties under Limited Legal Service.
-
-## Bar Trap
-Q: May a lawyer appear in small claims?
-A: Generally no, unless the lawyer appears as the plaintiff or defendant.
-```
+- National right to appear before courts
+- Presumption of authority to appear
+- Privileged communication
+- Privileged statements in pleadings
+- Attorney's liens
 
 ---
 
-## Vault structure target
+## 7. Unauthorized Practice of Law — 🟡
 
-```text
-Basic Legal and Judicial Ethics/
-├─ 00 Dashboard/
-│  └─ Legal and Judicial Ethics MOC.md
-├─ 01 Core Doctrines/
-├─ 02 CPRA/
-├─ 03 Judicial Ethics/
-├─ 04 Notarial Practice/
-├─ 05 Cases/
-├─ 06 Bar Traps/
-├─ 07 Flashcards/
-├─ 08 Flowcharts and Tables/
-├─ 09 Practical Exercises/
-└─ 99 Sources/
-```
+Main doctrine note: [[Unauthorized Practice of Law]]
+
+Assigned cases:
+
+- [[Zeta v. Malinao]]
+- [[Sps. Agbulos v. Gutierrez]]
+- [[Cambaliza v. Cristal-Tenorio]]
+- [[Tan, Jr. v. Atty. Gumba]]
+
+### a. Penalties
+
+Assigned cases:
+
+- [[Saladaga v. Astorga]]
+- [[Gonzales-Austria v. Abaya]]
+
+Doctrine targets:
+
+- Non-lawyers performing lawyer-exclusive acts
+- Lawyers practicing without current authority
+- Lawyers assisting unauthorized practice
+- Unauthorized practice before oath/Roll
+- Unauthorized practice during suspension or after disbarment
+- Penalties and disciplinary consequences
 
 ---
 
-## Source workflow
+# B. CPRA Canon I — Independence
 
-- Use public primary sources where possible: Lawphil, Supreme Court, rules, A.M. issuances, and official circulars.
-- Use private review materials only as reading guides.
-- Do not paste copyrighted reviewer text into public notes.
-- Every doctrine note should eventually link to the official rule or case source.
-- Every case note should eventually contain a source link.
+Main index: [[CPRA Canon Index]]  
+Main doctrine note: [[Canon I - Independence]]
+
+## 1. Concept of Lawyer's Independence — 🟡
+
+Main doctrine note: [[Canon I - Independence]]
+
+Doctrine targets:
+
+- Independent professional judgment
+- Independence from client pressure, government pressure, private pressure, and improper third-party influence
+- Independence as a condition of accessible, efficient, and effective legal service
 
 ---
 
-## Review checkpoints
+## 2. Duty to Make Independent, Accessible, Efficient and Effective Legal Service — 🟡
 
-- [ ] Every major CPRA Canon has an index note.
-- [ ] Every doctrine note has at least one case link.
-- [ ] Every case note has a doctrine and bar trap.
-- [ ] Every high-yield table is rewritten in original language.
-- [ ] Every note has tags and status.
-- [ ] No copyrighted PDF or copied reviewer table is committed to the public repo.
+Main doctrine note: [[Canon I - Independence]]
+
+Assigned case:
+
+- [[Jacolbia v. Atty. Panganiban]]
+
+Doctrine targets:
+
+- CPRA Canon I, Sec. 1
+- Efficient and effective service
+- Neglect versus total inaction
+- Failure to return client funds or documents
+
+---
+
+## 3. Duty to Lead a Merit-Based Legal Practice — 🟡
+
+Main doctrine note: [[Merit-Based Practice]]
+
+Assigned cases:
+
+- [[Judge Dumlao, Jr. v. Atty. Camacho|Judge Florentino v. Atty. Camacho]]
+- [[Jimenez and Vizconde v. Atty. Verano, Jr.|Jimenez & Vizconde v. Verano Jr.]]
+- [[Vantage Lighting Philippines v. Atty. Diño, Jr.|Vantage Lighting Philippines v. Atty. Jose Difto]]
+
+Doctrine targets:
+
+- CPRA Canon I, Sec. 2
+- Reliance on merits
+- No influence-peddling
+- No appearance of influence
+- No undermining of tribunals or agencies
+
+---
+
+## 4. Duty to be Free from Improper Considerations and External Influences — 🟡
+
+Main doctrine note: [[Freedom from Improper Considerations and External Influences]]
+
+Doctrine targets:
+
+- CPRA Canon I, Sec. 3
+- Lawyer must not let dishonest or immoral considerations shape advocacy
+- Contrast with Sec. 2: corrupting the tribunal versus corrupting the lawyer's own judgment
+
+---
+
+## 5. Duty Not to Allow Interference in Any Matter Before a Court or Tribunal — 🟡
+
+Main doctrine note: [[Canon I - Independence]]
+
+Assigned case:
+
+- [[Olvida v. Gonzales|Oliva v. Gonzales]]
+
+Doctrine targets:
+
+- CPRA Canon I, Sec. 4
+- No unauthorized interference by another government branch, agency, office, or officer
+- Distinguish from influence-peddling under Sec. 2 and procedure/strategy under Sec. 5
+
+---
+
+## 6. Lawyer's Duty and Discretion in Procedure and Strategy — 🟡
+
+Main doctrine note: [[Lawyer's Duty and Discretion in Procedure and Strategy]]
+
+Doctrine targets:
+
+- CPRA Canon I, Sec. 5
+- Client controls objectives.
+- Lawyer controls lawful procedure and strategy.
+- If disagreement prevents proper representation, the lawyer must withdraw properly instead of abandoning the case.
+
+---
+
+# Case digest standard
+
+Use `05 Cases/` for every assigned case digest.
+
+Each digest should use this format:
+
+1. **Facts**
+2. **Issue**
+3. **Ruling**
+4. **Doctrine**
+5. **Ethics relevance**
+6. **Bar trap**
+7. **Syllabus topic**
+8. **Related CPRA / Rule of Court provision**
+
+Template: [[Case Digest Template]]
+
+---
+
+# Doctrine note standard
+
+Every doctrine note should stay doctrine-driven and source-driven:
+
+1. **Rule**
+2. **Elements or requirements**
+3. **Exceptions or limits**
+4. **Related cases**
+5. **Bar trap**
+6. **Recall questions**
+7. **Source ladder**
+
+## Source ladder
+
+Use sources in this order:
+
+1. Current primary rule text: Rules of Court, CPRA, statute, or Supreme Court issuance.
+2. Supreme Court cases assigned in the syllabus.
+3. Related doctrines from other Supreme Court cases.
+4. Reviewers, outlines, and handouts only as private reading guides — do not copy them into the public repo.
+
+---
+
+# Build queue for this syllabus slice
+
+## Priority 1 — stabilize A. Practice of Law
+
+- [ ] Finish individual case digests under `05 Cases/` for all cases assigned under **A. Practice of Law**.
+- [ ] Strengthen [[Admission to the Bar]] around citizenship, good moral character, Bar examinations, oath, and Roll.
+- [ ] Strengthen [[Who May Practice Law]] and its linked notes on non-lawyer appearance, public officials, limited practice, and foreign lawyers.
+- [ ] Strengthen [[Unauthorized Practice of Law]] with penalties and assigned cases.
+- [ ] Add recall questions to every A. Practice of Law doctrine note.
+
+## Priority 2 — stabilize CPRA Canon I
+
+- [ ] Strengthen [[Canon I - Independence]] as the Canon I landing note.
+- [ ] Strengthen [[Merit-Based Practice]] using the three assigned cases.
+- [ ] Strengthen [[Freedom from Improper Considerations and External Influences]] using rule text and hypotheticals.
+- [ ] Strengthen [[Lawyer's Duty and Discretion in Procedure and Strategy]].
+- [ ] Add recall questions and bar traps to all Canon I notes.
+
+## Priority 3 — polish outputs
+
+- [ ] Build a compact recitation sheet for **A. Practice of Law**.
+- [ ] Build a compact recitation sheet for **CPRA Canon I**.
+- [ ] Build a one-page attack sheet comparing:
+  - practice of law vs. self-representation
+  - authorized appearance vs. unauthorized practice
+  - absolute prohibition vs. limited private practice
+  - CPRA Canon I Sec. 2 vs. Sec. 3 vs. Sec. 4
+
+---
+
+# Backlog — intentionally out of scope for now
+
+The following areas remain in the vault but should not distract the current build:
+
+- ⏸️ [[Canon II - Propriety]]
+- ⏸️ [[Canon III - Fidelity]]
+- ⏸️ [[Canon IV - Competence and Diligence]]
+- ⏸️ [[Canon V - Equality]]
+- ⏸️ [[Canon VI - Accountability]]
+- ⏸️ [[New Code of Judicial Conduct]]
+- ⏸️ [[Judicial Independence]]
+- ⏸️ [[Judicial Integrity]]
+- ⏸️ [[Judicial Impartiality]]
+- ⏸️ [[Judicial Propriety]]
+- ⏸️ [[Judicial Equality]]
+- ⏸️ [[Judicial Competence and Diligence]]
+- ⏸️ [[Disqualification and Inhibition of Judges]]
+- ⏸️ [[Discipline of Judges and Court Personnel]]
+- ⏸️ [[Notarial Practice]]
+- ⏸️ [[Notarial Defects and Sanctions Table]]
+- ⏸️ [[Remote Notarization]]
+- ⏸️ [[Practical Exercises Index]]
+- ⏸️ Extra CPRA tables not required by this syllabus slice
+
+Keep these notes for later, but do not feature them in the active dashboard until the syllabus reaches them.
