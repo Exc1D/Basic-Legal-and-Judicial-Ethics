@@ -72,6 +72,23 @@ A: Yes, but only as a party in his own case, or as non-lawyer next-of-kin assist
 Q: Who is barred from appearing at a small-claims hearing?  
 A: Lawyers, unless the lawyer is personally the plaintiff or defendant.
 
+## Unauthorized practice and the Roll of Attorneys
+
+Q: Is "Canon 9, CPR" still valid rule text for the duty not to assist unauthorized practice?  
+A: No. The 1988 CPR is repealed; the current anchor is CPRA, Canon II, Sec. 35.
+
+Q: Does the duty not to assist unauthorized practice cover a lawyer's own lapse?  
+A: Yes — it is not limited to assisting someone else's unauthorized practice.
+
+Q: In *Medado*, why did his mistake stop excusing his continued practice?  
+A: It was only a mistake of fact; once he discovered he had not signed the Roll, continuing to practice became a willful mistake of law, which never excuses.
+
+Q: How did *Aguirre v. Rana*'s outcome differ from *Medado*'s, despite both involving practice without a signed Roll?  
+A: Rana was denied admission outright for practicing deliberately before his own admission was complete; Medado was allowed to belatedly sign, with a penalty, because his lapse began as a genuine mistake disclosed decades later in good faith.
+
+Q: Is signing pleadings under a disbarred lawyer's firm name always sanctionable for every co-signing lawyer?  
+A: No — active co-signing of a substantive pleading is sanctionable; a passive, ministerial filing as counsel of record may not be.
+
 ## Public officials and private practice
 
 Q: Are governors and mayors absolutely barred from private practice?  

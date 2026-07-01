@@ -49,9 +49,11 @@ Use this folder for case digests and case-to-doctrine links.
 ## Unauthorized practice of law
 
 - [[Ulep v. The Legal Clinic, Inc.]] — corporate practice ban.
-- [[Bonifacio v. Atty. Era and Atty. Bragas]] — suspended lawyer continuing to practice.
-- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer co-signing pleadings.
-- [[Arienda v. Monilla]] — non-lawyer court employee preparing legal documents. See [[Appearance of Non-Lawyers]].
+- [[Aguirre v. Rana]] — practicing as counsel before the oath and Roll are complete; admission denied outright. See [[Unauthorized Practice of Law]] and [[Signing of the Roll of Attorneys]].
+- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — decades of practice without a signed Roll; mistake of fact excuses only until discovered. See [[Signing of the Roll of Attorneys]].
+- [[Bonifacio v. Atty. Era and Atty. Bragas]] — suspended lawyer continuing to practice; associate liable for actively assisting.
+- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer co-signing pleadings; active versus passive assistance, decided under the CPRA.
+- [[Arienda v. Monilla]] — non-lawyer court employee preparing legal documents. See [[Appearance of Non-Lawyers]] and [[Unauthorized Practice of Law]].
 
 ## Government and court employees
 

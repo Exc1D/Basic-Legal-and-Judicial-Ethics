@@ -35,6 +35,13 @@ Use this note for short, exam-facing traps. Each entry should point back to a do
 - A lawyer may always appear **as a party** in Katarungang Pambarangay, small claims, or IPRA customary proceedings — what is barred is appearing **as counsel** for someone else. See [[Prohibited Proceedings for Lawyers]].
 - A law student may appear personally as an agent or friend of a party before an **inferior court** under Sec. 34, Rule 138, without a supervising lawyer — a distinct track from Rule 138-A practice. See [[Law Student Practice Rule]].
 
+## Unauthorized-practice traps
+
+- "Canon 9, Code of Professional Responsibility" is not current rule text — the 1988 CPR is repealed. The duty not to assist unauthorized practice now lives in CPRA, Canon II, Sec. 35, though case law still calls it a "Canon 9" violation. See [[Unauthorized Practice of Law]].
+- The duty not to assist unauthorized practice covers a lawyer's **own** unauthorized practice, not only assistance given to someone else. See [[Unauthorized Practice of Law]].
+- A mistake of fact (believing the Roll was already signed) excuses only until the truth is discovered; continuing to practice afterward is willful, because a mistake of law never excuses. See [[Signing of the Roll of Attorneys]].
+- Co-signing a substantive pleading under a disbarred lawyer's firm name is active, sanctionable assistance; a passive filing as counsel of record may not be — a law firm has a juridical personality distinct from its named partners. See [[Unauthorized Practice of Law]].
+
 ## Public-official practice traps
 
 - Governors and city/municipal mayors are **absolutely** barred from private practice; ordinary Sanggunian members are only **qualifiedly** restricted. Do not treat all local elective officials alike. See [[Public Officials and Private Practice]].
