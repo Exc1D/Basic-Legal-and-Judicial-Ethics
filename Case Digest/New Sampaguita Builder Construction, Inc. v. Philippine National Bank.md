@@ -1,5 +1,4 @@
 
-
 **G.R. No. 148753, July 30, 2004**
 
 **Ponente:** Justice Artemio V. Panganiban
