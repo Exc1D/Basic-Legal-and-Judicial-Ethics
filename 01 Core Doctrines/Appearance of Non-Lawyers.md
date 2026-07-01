@@ -76,17 +76,9 @@ Party representation in arbitration is markedly more flexible than in litigation
 
 ## What all of these exceptions have in common — and where they stop
 
-Every exception above rests on either (a) the party's own right to represent themselves, with or without lay assistance, or (b) an express statutory or tribunal-specific authorization that never depended on Bar membership. None of them authorizes a **non-lawyer to hold out generally as someone who represents others for a fee**. A court employee who, outside official duty, drafts pleadings or gives legal advice to litigants for consideration is not exercising any of these exceptions — that is unauthorized practice, full stop. See [[Arienda v. Monilla]].
+Every exception above rests on either (a) the party's own right to represent themselves, with or without lay assistance, or (b) an express statutory or tribunal-specific authorization that never depended on Bar membership. None of them authorizes a **non-lawyer to hold out generally as someone who represents others for a fee**. **[[Arienda v. Monilla]]** shows exactly what falls outside every one of these boxes: a court stenographer, not a lawyer, agreed — off the clock, for a private client, together with her lawyer husband — to prepare and finalize an extrajudicial settlement of an estate for nearly ₱50,000. There is no exception on the list above for "helpful court employee moonlighting for a fee," and the Supreme Court found her guilty of simple misconduct precisely because none of the recognized carve-outs covered what she did; drafting a legal instrument for someone else's estate is practice of law, full stop, whatever her day job.
 
-Self-representation is also conceptually distinct from representing **another** person, even where the "other person" is closely related to the litigant. A public official who appears only for himself, in his own cause, is not thereby engaged in the practice of law for another — but the moment the same person purports to represent someone else's cause, the general rule (Bar membership required) reasserts itself unless a specific exception applies. See [[Maderada v. Judge Mediodea]].
-
-## Related cases
-
-- [[Maderada v. Judge Mediodea]] — self-representation is not the same as representing another as counsel.
-- [[Arienda v. Monilla]] — a non-lawyer court employee's preparation of legal documents for litigants, outside any recognized exception, is not protected appearance.
-- [[People vs. Simplicio Villanueva]] — an isolated appearance by a public official/lawyer is analyzed under the habituality-and-compensation test, not the non-lawyer exceptions.
-- [[Cayetano v. Monsod]] — supplies the baseline definition of practice of law against which every claimed exception is measured.
-- [[Cruz v. Mina]] — the Section 34 agent-or-friend exception applied to a law student appearing for his own father.
+Self-representation is also conceptually distinct from representing **another** person, even where the "other person" is a close relative. **[[Maderada v. Judge Mediodea]]** draws this line inside a single case: a court clerk who filed a forcible entry action in her own name, and also appeared for her co-plaintiff in the same case, was cleared on the first act and reprimanded on the second. Litigating her own cause was pure self-representation, protected regardless of her day job; appearing for someone else — even a co-plaintiff suing over the same property — required authority she did not have. The moment a person purports to represent someone else's cause, the general rule (Bar membership, or a specific exception from the list above) reasserts itself; proximity to the litigant, even sharing a case, is not itself an exception.
 
 ## Bar traps
 

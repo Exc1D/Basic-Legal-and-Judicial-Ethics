@@ -32,7 +32,9 @@ Lawyers engaged in the practice of law must annually pay the professional tax im
 
 ### 2. Membership in good standing in the Integrated Bar of the Philippines (IBP)
 
-Every lawyer admitted to the Bar automatically becomes, and must remain, a member of the IBP (Rule 138, Sec. 1; IBP By-Laws, Art. II). Integration does not create a new professional identity — it simply gives the existing, already-unified body of Philippine lawyers an official national organization. Compulsory IBP membership does not violate a lawyer's freedom of association, because a lawyer does not join any new group by becoming a member; the person was already a lawyer, and integration only organizes lawyers who are already part of one profession (*In re: Edillon*, A.M. No. 1928, 3 August 1978). See [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]].
+Every lawyer admitted to the Bar automatically becomes, and must remain, a member of the IBP (Rule 138, Sec. 1; IBP By-Laws, Art. II). Integration does not create a new professional identity — it simply gives the existing, already-unified body of Philippine lawyers an official national organization, and compulsory membership does not violate a lawyer's freedom of association, because a lawyer does not join any new group by becoming a member; the person was already a lawyer, and integration only organizes lawyers who already share one profession.
+
+**[[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)|In re: Edillon]]** shows what happens to a lawyer who tests that rule to its limit. Atty. Marcial Edillon simply refused, year after year, to pay his IBP dues, arguing he was being unconstitutionally compelled to bankroll an organization "to which he was personally antagonistic." The Supreme Court disbarred him, rejecting the argument outright: bar integration had already been settled as raising no constitutional question at all, since it does not create any new affiliation a lawyer did not already have by virtue of being a lawyer. That might have been the end of the story, but it wasn't. Two years later, after Edillon's tone shifted from defiance to contrition — a series of letters citing his poor health, his age, and concern for clients who still relied on him — and after he paid every peso of his delinquent dues in full, the Court reinstated him. Chief Justice Fernando's reinstatement opinion is where the more durable lesson sits: the power to discipline a lawyer, even to the point of disbarment, "should be exercised on the preservative and not on the vindictive principle" — meaning the point of the sanction was never to punish Edillon permanently, only to make him (and every lawyer watching) take the obligation seriously. Once he did, the door reopened.
 
 ### 3. Payment of IBP dues
 
@@ -50,7 +52,7 @@ Exemptions under B.M. No. 850 include, among others, the President and Vice-Pres
 
 ### 5. Possession of good moral character
 
-Good moral character is not exhausted at admission — it is also a **continuing condition** for remaining a member of the Bar in good standing (*Buenantura v. Atty. Gille*, A.C. No. 7446, 9 December 2020). Loss of good moral character after admission is itself a distinct disciplinary ground. See [[Admission to the Bar]] for the condition-precedent side of this same requirement.
+Good moral character is not exhausted at admission — it is also a **continuing condition** for remaining a member of the Bar in good standing, and loss of it after admission is itself a distinct disciplinary ground, not merely evidence that admission should not have happened. [[Garrido v. Attys. Garrido and Valencia]] is the clearest illustration: a lawyer who maintained a bigamous-in-substance second family for years was disbarred decades into his career, on the reasoning that the only question that matters is whether he *currently* possesses the moral fitness the profession demands — the passage of time since the misconduct began is no defense. See [[Admission to the Bar]] for the full facts of that case and for the condition-precedent side of this same requirement.
 
 ### 6. Legal aid service under the Rules on Unified Legal Aid Service (ULAS)
 
@@ -61,14 +63,6 @@ Lawyers **excluded** from ULAS coverage include those in government service or h
 ### 7. Citizenship
 
 The practice of law, like other regulated professions, is constitutionally reserved to Filipino citizens except where a law provides otherwise (1987 Constitution, Art. XII, Sec. 14). A Filipino lawyer who becomes a naturalized citizen of another country and later reacquires Philippine citizenship under **RA 9225** is deemed never to have lost Philippine citizenship or Bar membership — but reacquisition does **not automatically revive the right to practice**; the lawyer must apply to the Supreme Court to resume practice and, ordinarily, must first update MCLE compliance and other continuing requirements (*Petition for Leave to Resume Practice of Law, Benjamin M. Dacanay*, B.M. No. 1678, 17 December 2007; reaffirmed in [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In Re: Muneses]], B.M. No. 2112, 24 July 2012, which additionally requires retaking the Lawyer's Oath).
-
-## Related cases
-
-- [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — mandatory IBP integration does not violate freedom of association; non-payment of dues is a disciplinable ground.
-- [[In re Argosino, B.M. No. 712]] — good moral character as a continuing, rehabilitable standard.
-- [[Cayetano v. Monsod]] — the broad definition of practice of law referenced when assessing whether an MCLE-delinquent lawyer may still be considered to be practicing.
-- [[Turla v. Atty. Caringal]] — MCLE non-compliance versus false MCLE-exemption claims; the second is the far graver, oath-violating wrong.
-- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] — reaffirms and formalizes the Dacanay rule on RA 9225 citizenship reacquisition.
 
 ## Bar traps
 
@@ -105,7 +99,7 @@ Wrong. Paying the non-compliance fee is the rule's own built-in remedy for a sim
 | IBP dues | Rule 139-A, Sec. 10; IBP By-Laws, Sec. 24 |
 | MCLE | Bar Matter No. 850 |
 | False MCLE-exemption claims | [[Turla v. Atty. Caringal]] |
-| Good moral character (continuing) | *Buenantura v. Atty. Gille* (2020) |
+| Good moral character (continuing) | [[Garrido v. Attys. Garrido and Valencia]] |
 | Legal aid | A.M. No. 22-11-01-SC (ULAS), effective 1 January 2025 |
 | Citizenship | Constitution, Art. XII, Sec. 14; RA 9225; [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] |
 
@@ -141,7 +135,7 @@ Use sources in this order:
 3. Bar Matter No. 850 (MCLE) and its Implementing Regulations.
 4. A.M. No. 22-11-01-SC (Rules on Unified Legal Aid Service).
 5. 1987 Constitution, Art. XII, Sec. 14; RA 9225.
-6. Supreme Court cases, especially [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]], [[Turla v. Atty. Caringal]], *Petition for Leave to Resume Practice of Law, Dacanay* (B.M. No. 1678, 2007), and [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]].
+6. Supreme Court cases, especially [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]], [[Turla v. Atty. Caringal]], [[Garrido v. Attys. Garrido and Valencia]], *Petition for Leave to Resume Practice of Law, Dacanay* (B.M. No. 1678, 2007), and [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]].
 7. Official MCLE Office (mcle.judiciary.gov.ph) and ULAS (sc.judiciary.gov.ph/ulas) pages.
 8. Private review materials only as reading guides, not as text to copy into the public repository.
 

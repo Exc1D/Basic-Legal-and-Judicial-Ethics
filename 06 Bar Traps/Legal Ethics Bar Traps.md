@@ -68,6 +68,7 @@ Use this note for short, exam-facing traps. Each entry should point back to a do
 - A general agency policy allowing government lawyers to practice privately does not excuse the need for case-specific superior authorization, a stated purpose, and approved leave. See [[Public Officials and Private Practice]].
 - Rule 138, Sec. 35's absolute bar on judges reaches even a case begun **before** appointment and involving the judge's own **family** — there is no exception for either. See [[Ziga v. Judge Arejola]].
 - Resigning or retiring from government service does **not** immediately clear a lawyer to practice before their own former office — RA 6713, Sec. 7(b)(2) imposes a **one-year** post-employment restriction. See [[In Re Query of Atty. Karen M. Silverio-Buffe]].
+- A punong barangay who presides over conciliation and later represents one of the parties is **not** disciplined under Rule 6.03 (that rule binds only lawyers who have already left government service) — the real violation is practicing without the department head's **written permission** civil service rules require. Neither RA 7160, Sec. 90 nor Sec. 91 restricts barangay officials at all. See [[Catu v. Rellosa]].
 
 ## CPRA Canon I (Independence) traps
 

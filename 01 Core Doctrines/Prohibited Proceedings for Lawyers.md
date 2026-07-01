@@ -54,10 +54,9 @@ Across all three settings, notice the recurring structure that examiners like to
 2. A **narrow carve-out** for the lawyer appearing **as a party**, or in some **other, non-representational capacity** tied to the forum itself (family member, community elder).
 3. Room, in some of these fora (small claims), for **lay, non-lawyer assistance** to a party who genuinely cannot cope alone — which is not the same thing as reintroducing counsel.
 
-## Related cases
+## Why this note runs light on case law
 
-- [[Maderada v. Judge Mediodea]] — self-representation versus representation of another, the same conceptual line that makes the "appearing as a party" exception work in Katarungang Pambarangay and IPRA proceedings.
-- [[Cayetano v. Monsod]] — baseline definition of practice of law, useful for testing whether a lawyer's conduct in one of these fora crosses from permitted self-interest into prohibited representation of another.
+Unlike most doctrine notes in this vault, the three prohibitions above are enforced **procedurally** — a tribunal simply refuses to let counsel appear, or strikes the appearance, rather than the matter working its way up as a disbarment or suspension case. That is why no Supreme Court case is cited here as directly on point: there is comparatively little reported disciplinary jurisprudence testing these specific rules, because the sanction is built into the forum's own procedure rather than routed through Bar discipline. The one genuinely useful case analogy is [[Maderada v. Judge Mediodea]] — not because it is a Katarungang Pambarangay, small-claims, or IPRA case (it is none of those; it arose from an ordinary forcible entry action), but because its core distinction, that representing yourself is never the same thing as representing someone else, is precisely the logic that makes the "appearing as a party" exception work in all three settings above. See [[Appearance of Non-Lawyers]] for that case's full facts and holding.
 
 ## Bar traps
 

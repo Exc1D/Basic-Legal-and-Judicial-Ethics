@@ -91,6 +91,7 @@ Use this folder for case digests and case-to-doctrine links.
 - [[Maderada v. Judge Mediodea]] — self-representation distinguished from representing another.
 - [[Arienda v. Monilla]] — integrity of court personnel in private dealings.
 - [[Ziga v. Judge Arejola]] — a judge's continued appearance in a pre-appointment family case; no exception for family matters.
+- [[Catu v. Rellosa]] — punong barangay who represented a party after presiding over conciliation; disciplined for practicing without written civil-service permission, not for Rule 6.03 (which does not bind incumbent officials).
 - [[In Re Query of Atty. Karen M. Silverio-Buffe]] — one-year post-employment restriction under RA 6713, Sec. 7(b)(2), applied to a former Clerk of Court.
 - [[Gonzales-Austria v. Abaya]] — government misconduct (forgery) as an independent Bar-discipline ground, separate from any administrative penalty.
 

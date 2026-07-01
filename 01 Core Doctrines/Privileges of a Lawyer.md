@@ -39,6 +39,8 @@ A lawyer may not, without the client's consent, be examined as to any communicat
 
 Statements a lawyer makes in pleadings, motions, or oral argument, if **relevant and pertinent to the case**, enjoy a qualified privilege against actions for libel or slander — advocacy requires candid, sometimes forceful characterizations of the opposing party's conduct, and a lawyer should not have to litigate a defamation suit every time a pleading calls an adversary's claim fraudulent or a witness's testimony false. The privilege is not absolute: it protects only statements germane to the subject of the controversy, not gratuitous personal attacks unconnected to the case.
 
+**[[Rufina Luy Lim vs. Atty. Manuel V. Mendoza|Rufina Luy Lim v. Atty. Mendoza]]** shows what falls on the wrong side of that line — and shows that the boundary matters even when no libel suit is ever filed. Atty. Manuel Mendoza, litigating an estate dispute, accused the complainant in his pleadings of collecting "BILLIONS OF PESOS" in rent that were "DISSIPATED ON HER GAMBLING VICES." The Supreme Court condemned the language as intemperate, abusive, and unbecoming of a member of the Bar, holding that the Code requires language that is "emphatic but respectful, convincing but not derogatory — language befitting one gentleman addressing another." Two doctrinal tracks are worth keeping separate here: the qualified privilege discussed above is what would shield relevant, pertinent pleading language from a **civil libel suit** brought by the opposing party; it says nothing about the lawyer's separate, independent exposure to **Bar discipline** for the same words, which the Court polices directly under its own propriety canons regardless of whether the opposing party ever sues. Mendoza's language would likely have failed even the civil-privilege test, since accusations of "gambling vices" were not germane to the estate dispute at all — but the case is a reminder that germane, case-relevant language can still separately draw disciplinary scrutiny for tone, while genuinely gratuitous language fails both tests at once.
+
 ## Attorney's liens
 
 Under Rule 138, Sec. 37, a lawyer has two distinct liens securing payment of lawful fees and disbursements:
@@ -46,13 +48,7 @@ Under Rule 138, Sec. 37, a lawyer has two distinct liens securing payment of law
 - A **retaining lien** over any funds, documents, and papers of the client that have lawfully come into the lawyer's possession, entitling the lawyer to retain them until the fees are paid — subject to the client's right to demand their surrender upon posting adequate security.
 - A **charging lien** over judgments the lawyer has secured for the client, and over the proceeds of any execution, once the lawyer has, at the proper time, recorded a claim for the corresponding fees with the court.
 
-See [[Attorney's Fees]] for the fuller CPRA treatment of fee arrangements and quantum meruit.
-
-## Related notes
-
-- [[Practice of Law]] — the presumption-of-authority privilege illustrated.
-- [[Who May Practice Law]]
-- [[Attorney's Fees]]
+**[[Burbe v. Atty. Magulta]]** shows the retaining lien's limit, not just its existence. Dominador Burbe deposited ₱25,000 with Atty. Alberto Magulta's firm as a filing fee for a money claim; Magulta never filed the case, repeatedly lied that he had (even walking his client to the Hall of Justice to stage a follow-up), and eventually admitted he had spent the money on himself. When confronted, he invoked an attorney's lien over the funds as justification for holding onto money his client was owed. The Supreme Court rejected the argument outright: a lien exists to secure payment of *lawful fees actually earned*, not to excuse converting money the client entrusted for a specific, different purpose. Holding funds in trust under Rule 16.01 of the CPR and asserting a lien over fees due are not the same power, and a lawyer cannot dress up misappropriation as lien enforcement. Magulta was suspended for one year, and the Court added a line worth remembering alongside the lien doctrine itself: lawyering is a profession, not a business, and the duty to account for client funds promptly does not bend to a fee dispute.
 
 ## Bar traps
 
@@ -68,15 +64,24 @@ Wrong. The privilege exists for the client's protection; the client, not the law
 
 Overstated. Statements relevant and pertinent to the case enjoy a qualified privilege against libel or slander actions; only statements unconnected to the controversy lose that protection.
 
+### Trap 4: "If a statement in a pleading is privileged against a libel suit, the lawyer also cannot be disciplined for it."
+
+Wrong. [[Rufina Luy Lim vs. Atty. Manuel V. Mendoza|Rufina Luy Lim v. Atty. Mendoza]] shows these are separate tracks: civil privilege shields a lawyer from a defamation suit brought by the opposing party, but the Supreme Court independently polices intemperate or abusive language through Bar discipline regardless of whether anyone sues.
+
+### Trap 5: "An attorney's lien lets a lawyer keep any client funds in hand until the client pays whatever fee the lawyer claims is owed."
+
+Wrong. [[Burbe v. Atty. Magulta]] rejected exactly this argument — a lien secures *lawful fees actually earned*; it does not authorize converting funds the client entrusted for a specific, different purpose (there, a filing fee that was never filed).
+
 ## Rule anchor map
 
 | Privilege | Main anchor |
 |---|---|
 | National, unitary right to appear before any court | Constitutional rule-making power over admission; Rule 138 generally |
-| Presumption of continuing authority on appeal | Rule 138, Sec. 22 |
+| Presumption of continuing authority on appeal | Rule 138, Sec. 22; [[Sps. Agbulos v. Gutierrez]] |
 | Privileged communication | Rules of Court, Rule 130, Sec. 24(b) |
-| Privileged statements in pleadings/trial | General civil-law principles on qualified privilege |
-| Retaining and charging liens | Rule 138, Sec. 37 |
+| Privileged statements in pleadings/trial (civil-libel track) | General civil-law principles on qualified privilege |
+| Privileged statements in pleadings/trial (disciplinary track) | CPR/CPRA propriety canons; [[Rufina Luy Lim vs. Atty. Manuel V. Mendoza|Rufina Luy Lim v. Atty. Mendoza]] |
+| Retaining and charging liens | Rule 138, Sec. 37; [[Burbe v. Atty. Magulta]] |
 
 ## Recall questions
 
@@ -89,6 +94,12 @@ A: The client, not the lawyer.
 Q: What is the difference between a retaining lien and a charging lien?  
 A: A retaining lien covers client funds, documents, and papers already in the lawyer's possession; a charging lien covers judgments the lawyer secured for the client and the proceeds of execution.
 
+Q: Does the qualified privilege that shields relevant pleading language from a libel suit also shield a lawyer from Bar discipline for the same language?  
+A: No. [[Rufina Luy Lim vs. Atty. Manuel V. Mendoza|Rufina Luy Lim v. Atty. Mendoza]] shows the Court disciplining intemperate pleading language independently of any civil libel exposure.
+
+Q: In Burbe v. Atty. Magulta, why did the lawyer's invocation of an attorney's lien fail?  
+A: Because the money was a filing fee entrusted for a specific purpose he never carried out, not an earned fee the lien doctrine protects — a lien cannot be used to launder misappropriation.
+
 ## Source ladder
 
 Use sources in this order:
@@ -96,7 +107,8 @@ Use sources in this order:
 1. Rule 138 of the Rules of Court, Secs. 21-22 and 37.
 2. Rules of Court, Rule 130, Sec. 24(b), on privileged communication.
 3. Code of Professional Responsibility and Accountability, on confidentiality and attorney's fees.
-4. Private review materials only as reading guides, not as text to copy into the public repository.
+4. Supreme Court cases, especially [[Sps. Agbulos v. Gutierrez]], [[Rufina Luy Lim vs. Atty. Manuel V. Mendoza]], and [[Burbe v. Atty. Magulta]].
+5. Private review materials only as reading guides, not as text to copy into the public repository.
 
 ## Related notes
 

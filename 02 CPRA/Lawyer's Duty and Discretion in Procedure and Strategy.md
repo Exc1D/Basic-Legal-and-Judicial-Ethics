@@ -23,16 +23,18 @@ related:
 
 > "A lawyer shall not allow the client to dictate or determine the procedure in handling the case." — CPRA, Canon I, Sec. 5
 
-The syllabus lists no case for this section, but [[Olvida v. Gonzales]] — which the syllabus instead cites under Sec. 4's non-interference duty — is a far better fit here on its actual facts, and this note treats it as the section's illustrative case. See the placement note in that digest and in [[Canon I - Independence]] for the full explanation of the discrepancy.
+The syllabus lists no case for this section, but **[[Olvida v. Gonzales]]** — which the syllabus instead cites under Sec. 4's non-interference duty — is a far better fit here on its actual facts, and this note treats it as the section's illustrative case (see [[Canon I - Independence]] for the full explanation of that placement discrepancy). Alfredo Olvida engaged Atty. Arnel Gonzales to terminate a tenancy over his wife's coconut farm in Davao City, paying an acceptance fee and turning over every supporting document the DARAB case would need. When the Board set a 40-day deadline for position papers, Olvida called Gonzales's office repeatedly as the deadline approached — including on the very last day — and was eventually told by Gonzales's own secretary that the position paper had "already been filed." It had not; Gonzales had only drafted something on his own computer and never submitted it. Nine months later, Olvida finally obtained a copy of the DARAB decision himself: his case had been dismissed for lack of merit, expressly because no position paper was ever filed. Gonzales had received that same decision months earlier and told his client nothing.
+
+When the disbarment complaint finally reached him — after he ignored it for more than seven years, drawing a separate fine along the way — Gonzales's defense was that Olvida had failed to cooperate and "wanted to dictate how the case should be handled," refusing his advice. The Supreme Court rejected this outright, and its rejection is the case's direct textual link to this section: **"a lawyer 'shall not allow his client to dictate the procedure in handling the case.'"** Even accepting that some disagreement existed, that gave Gonzales no license to do nothing — he "should have acted as a lawyer in the case, not as a mere agent waiting for the complainant's instructions," and if he genuinely could not proceed on Olvida's terms, his remedy was to candidly withdraw and let Olvida find new counsel, not to let the deadline lapse in silence. The concealment compounded the neglect into something worse: letting a client believe, for nine months, that work had been done which never was, while sitting on an adverse decision the lawyer already knew about, is a distinct dishonesty on top of the underlying inaction. The Court suspended Gonzales for three years — well beyond the IBP's recommended four months — precisely because the dishonesty had been "glossed over" in the original investigation.
 
 ### The client/lawyer division of authority
 
-Sec. 5's one sentence rests on a broader, well-settled division of authority between lawyer and client that Philippine legal ethics draws consistently:
+Olvida's rejected defense only works as a defense at all if there is some truth to the idea that a client's wishes can bind a lawyer's hands — and Sec. 5 exists because that idea is only half right. It rests on a broader, well-settled division of authority between lawyer and client that Philippine legal ethics draws consistently:
 
 - **The client controls the objectives of the engagement** — the cause of action, the claims or defenses to raise, the relief sought, and whether to file an appeal at all, since these define what the client actually wants out of the representation.
 - **The lawyer controls the procedure and strategy for pursuing those objectives** — how to plead a case, what motions to file, what evidence to present and in what order, and similar tactical judgments — because these require legal training the client does not have.
 
-A lawyer who lets the client micromanage procedure is not being deferential; the lawyer is abdicating the very expertise the client engaged them for. Two worked illustrations from Bar reviewers make the line concrete:
+Gonzales's error was treating a disagreement over *strategy* — a matter squarely inside his own domain — as grounds to abandon the case entirely, rather than either exercising his own judgment or formally withdrawing. A lawyer who lets the client micromanage procedure is not being deferential; the lawyer is abdicating the very expertise the client engaged them for. Two further, worked illustrations from Bar reviewers make the line concrete beyond Olvida's facts:
 
 - A client convicted of homicide who accepts the verdict and does not want to appeal cannot stop counsel from pursuing an appeal counsel believes is warranted on the merits — filing the appeal is a procedural/strategic judgment call within the lawyer's discretion. (Reviewers caution that this scenario can cut both ways in practice — an appeal can also produce a worse outcome, such as a conviction for a graver offense — which is exactly why the rule frames this as the lawyer's professional judgment call, exercised at the lawyer's own risk of a disciplinary complaint if it goes badly, not a decision the client can simply veto in advance.)
 - Where trial counsel and client disagree on whether to seek a postponement, the lawyer's judgment controls, since scheduling and trial management are procedural, not objective-setting, decisions.
@@ -40,14 +42,6 @@ A lawyer who lets the client micromanage procedure is not being deferential; the
 ### Where the client's decision still controls
 
 Sec. 5 does not erase client authority altogether. The client still decides **whether to settle or compromise the case**, and a lawyer must explain the consequences of that decision before it is made — client control over the ultimate disposition of the case survives even though the lawyer controls the path taken to get there. (This settlement-authority principle is closely related to, but textually distinct from, the lawyer's general authority to bind a client — see [[Authority of Lawyer to Bind Client]] for the CPRA Canon III treatment of that adjacent issue.)
-
-## Illustrations already in this vault
-
-- **[[Olvida v. Gonzales]]** (A.C. No. 5732, 16 June 2015) — respondent blamed his own failure to file a DARAB position paper on the client supposedly wanting to "dictate the procedure" and refusing his advice. The Court rejected this as an excuse: even accepting a disagreement existed, the lawyer's own professional judgment should have controlled, and doing nothing was never an option. The Court's rejection of the "client dictated procedure" defense is the case's direct textual link to this section — sourced in the decision to the 1988 CPR's Canon 19, Rule 19.03, the direct ancestor of CPRA Canon I, Sec. 5.
-
-## Related cases
-
-- [[Olvida v. Gonzales]] — a lawyer's own inaction cannot be excused by blaming the client for wanting to dictate procedure.
 
 ## Bar traps
 

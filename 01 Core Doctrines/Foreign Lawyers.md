@@ -33,11 +33,9 @@ The clearest carve-out for genuine foreign lawyers is **international commercial
 
 > **Bar trap:** do not assume the ADR Act's international-arbitration exception extends to mediation generally or to court litigation. [[Appearance of Non-Lawyers]] separately covers a non-lawyer's (not specifically a foreign lawyer's) role in ADR Act mediation under Sec. 14 — a different provision, aimed at lay assistance rather than foreign-qualified counsel.
 
-## Related notes
+## Why this note runs light on case law
 
-- [[Who May Practice Law]] — this note supplies the "foreign lawyers" branch of that roadmap.
-- [[Admission to the Bar]] — the distinct "foreign law graduate" pathway available only to Filipino citizens.
-- [[Appearance of Non-Lawyers]] — the separate, non-lawyer-focused ADR Act mediation exception.
+Unlike most doctrine notes in this vault, the exclusion of foreign lawyers is enforced almost entirely at the **admission stage**, through the plain citizenship text of Rule 138, Sec. 2, rather than through disciplinary cases working their way up after the fact. There is no well-known Philippine disciplinary decision in this vault's case line — or in the standard bar-review canon — built around a genuine foreign national practicing law domestically without authority; the fact pattern is simply rare compared to the domestic unauthorized-practice cases collected in [[Unauthorized Practice of Law]]. Resist the temptation to force a loosely-related citizenship case into this note to manufacture case law where the doctrine does not actually need it: [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching|In re: Ching]] and [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112|In re: Muneses]], both discussed fully in [[Admission to the Bar]], are about Filipino citizens (one by election, one by reacquisition) clearing the citizenship bar to *become* eligible for the Bar — they are not about foreign nationals being excluded, and citing them here would blur exactly the distinction this note's "Foreign law graduates distinguished" section above exists to preserve. If a genuinely on-point case surfaces, it belongs here; until then, this note is accurately rule-driven rather than case-driven, and says so rather than padding itself with a mismatched citation.
 
 ## Bar traps
 

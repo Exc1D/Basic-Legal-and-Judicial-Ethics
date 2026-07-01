@@ -39,7 +39,7 @@ The default rule: a person may practice law only after completing admission (the
 
 Suspension and disbarment are not the same event, and the syllabus habit of lumping them together as one bullet point hides an important distinction.
 
-**Suspension** is temporary. The lawyer remains a member of the Bar, but the *right to exercise* the practice of law is paused for the period fixed by the Court. As already established in [[Canonoy vs. Atty. Guibone]], the suspension period begins to run only upon the lawyer's **receipt of the Supreme Court's own decision or resolution** imposing it — not upon an earlier IBP notice, and not upon the lawyer's own unilateral decision to stop practicing. Lifting the suspension is likewise not automatic: it requires the lawyer to file a sworn statement of compliance attesting that the full period was served and that the lawyer desisted from practice throughout. A lawyer who continues to sign pleadings or appear in court during suspension is committing unauthorized practice of law — see [[Bonifacio v. Atty. Era and Atty. Bragas]] and [[Tan, Jr. v. Atty. Gumba]] in [[Unauthorized Practice of Law]].
+**Suspension** is temporary. The lawyer remains a member of the Bar, but the *right to exercise* the practice of law is paused for the period fixed by the Court. **[[Canonoy vs. Atty. Guibone]]** shows a lawyer trying, and failing, to set his own reckoning date. Atty. Jose Guibone was found to have notarized a falsified Extrajudicial Settlement and Partition of Estate whose signatories were scattered across the country and abroad at the supposed time of signing, on top of a pattern of running multiple notarial offices, letting staff sign on his behalf, and notarizing on the strength of a mere community tax certificate. The Court suspended him for a total of two years and fined him, and he received that resolution on 13 May 2025. Rather than accept that date, he filed a Manifestation claiming he had already voluntarily stopped practicing back on 30 January 2024, upon receiving an earlier **IBP** notice, and asked to be treated as due to resume practice on 30 January 2026. The Court rejected the maneuver on two grounds: an IBP resolution is merely recommendatory and fixes nothing until the Court itself acts, and a lawyer's own unilateral claim of cessation cannot substitute for the Court's resolution as the trigger date. Suspension, the Court held, runs from **receipt of the Supreme Court's own decision or resolution**, full stop — the commencement and termination of the penalty must be placed beyond the disciplined lawyer's control, not left to his convenience. Lifting the suspension is equally not automatic: it requires filing a sworn statement of compliance attesting that the full period was served and that the lawyer desisted from practice throughout. **[[Calixto vs. Atty. Baleros|Calixto v. Atty. Baleros]]** extends the same "beyond the lawyer's control" logic to a lawyer who simply cannot be found: when a suspended lawyer's whereabouts are unknown despite the IBP's diligent efforts to locate her, receipt is **constructively** deemed to occur once the decision has been sent at least twice to her address of record — a lawyer cannot escape a suspension's clock by disappearing any more than by unilaterally declaring an earlier start date. A lawyer who continues to sign pleadings or appear in court during suspension is committing unauthorized practice of law — see [[Bonifacio v. Atty. Era and Atty. Bragas]] and [[Tan, Jr. v. Atty. Gumba]] in [[Unauthorized Practice of Law]].
 
 **Disbarment** is different in kind, not just degree: the lawyer's name is struck off the Roll of Attorneys entirely, and the person is no longer a member of the Bar at all — not merely barred from exercising the privilege, but stripped of the underlying membership. A disbarred lawyer who wishes to return to practice cannot simply wait out a period; the lawyer must petition the Court for reinstatement, typically supported by a showing of **judicial clemency** — under CPRA, Canon VI, Secs. 47-51, this generally requires a waiting period (commonly five years from disbarment or from the last administrative sanction) and **clear and convincing evidence** of remorse, reformation, and continued fitness to practice. See [[Signing of the Roll of Attorneys]] for the fuller treatment of clemency and reinstatement.
 
@@ -68,13 +68,6 @@ Fully treated in [[Public Officials and Private Practice]], which distinguishes:
 
 See [[Foreign Lawyers]] for the reciprocity rule and the narrow circumstances in which a foreign lawyer may render limited legal services in the Philippines without full Bar admission.
 
-## Related cases
-
-- [[Canonoy vs. Atty. Guibone]] — suspension mechanics: reckoning date and lifting requirements.
-- [[Bonifacio v. Atty. Era and Atty. Bragas]] — practicing while suspended is unauthorized practice.
-- [[Cruz v. Mina]] — the Section 34 non-lawyer-agent track, distinct from certified law student practice.
-- [[Ziga v. Judge Arejola]] — a judge's continued private practice after appointment.
-
 ## Bar traps
 
 ### Trap 1: "Suspension and disbarment both just require waiting out a period."
@@ -89,11 +82,20 @@ Wrong. A law student may instead appear as a mere agent or friend under Section 
 
 Wrong. Supervised paralegal work, self-representation, and the specific tribunal-based exceptions catalogued in [[Appearance of Non-Lawyers]] are all recognized, narrow carve-outs from the general rule.
 
+### Trap 4: "A suspended lawyer may count their suspension from whenever they personally stopped practicing, as long as they can prove it."
+
+Wrong. [[Canonoy vs. Atty. Guibone]] holds that suspension runs only from receipt of the Supreme Court's own decision or resolution — not an earlier IBP notice, and not the lawyer's own unilateral claim of voluntary cessation.
+
+### Trap 5: "A lawyer can avoid or delay a suspension by making themselves impossible to locate."
+
+Wrong. [[Calixto vs. Atty. Baleros|Calixto v. Atty. Baleros]] holds that where a lawyer's whereabouts are unknown despite the IBP's diligent efforts, receipt is constructively deemed to occur once the resolution has been sent at least twice to the lawyer's address of record — disappearing does not stop the clock from starting.
+
 ## Rule anchor map
 
 | Category | Main anchor |
 |---|---|
-| Suspension mechanics | CPRA, Canon VI; [[Canonoy vs. Atty. Guibone]] |
+| Suspension mechanics — reckoning date | CPRA, Canon VI; [[Canonoy vs. Atty. Guibone]] |
+| Suspension mechanics — constructive receipt | [[Calixto vs. Atty. Baleros|Calixto v. Atty. Baleros]] |
 | Disbarment and reinstatement | CPRA, Canon VI, Secs. 47-51 (judicial clemency) |
 | Certified law student practice | Rule 138-A |
 | Section 34 non-lawyer agent track | Rule 138, Sec. 34; [[Cruz v. Mina]] |
@@ -112,6 +114,12 @@ A: A reinstatement petition supported by a judicial clemency showing — typical
 Q: May an uncertified law student ever appear in court without a supervising lawyer?  
 A: Yes, in an inferior court, as a mere agent or friend of a party under Section 34, Rule 138 — a track independent of Rule 138-A certification.
 
+Q: From what date does a lawyer's suspension run — the date the lawyer says they stopped practicing, or the date the IBP notified them?  
+A: Neither. It runs from the lawyer's receipt of the Supreme Court's own decision or resolution imposing the penalty. See [[Canonoy vs. Atty. Guibone]].
+
+Q: Does a suspended lawyer avoid the suspension clock by making themselves unreachable?  
+A: No. [[Calixto vs. Atty. Baleros|Calixto v. Atty. Baleros]] allows constructive receipt once the resolution is sent at least twice to the lawyer's address of record on diligent but unsuccessful efforts to locate them.
+
 ## Source ladder
 
 Use sources in this order:
@@ -120,7 +128,7 @@ Use sources in this order:
 2. Rule 138-A (Law Student Practice Rule).
 3. Code of Professional Responsibility and Accountability, Canon VI (discipline, sanctions, clemency).
 4. Special tribunal rules covered in [[Appearance of Non-Lawyers]] and [[Prohibited Proceedings for Lawyers]].
-5. Supreme Court cases, especially [[Canonoy vs. Atty. Guibone]], [[Bonifacio v. Atty. Era and Atty. Bragas]], and [[Cruz v. Mina]].
+5. Supreme Court cases, especially [[Canonoy vs. Atty. Guibone]], [[Calixto vs. Atty. Baleros]], [[Bonifacio v. Atty. Era and Atty. Bragas]], and [[Cruz v. Mina]].
 6. Private review materials only as reading guides, not as text to copy into the public repository.
 
 ## Related notes

@@ -30,6 +30,8 @@ Only after both steps does Section 18 give effect to the clerk's certificate as 
 
 **The oath and the signature are not interchangeable, and neither substitutes for the other.** [[Aguirre v. Rana]] identifies them as the "two essential requisites to become a full-fledged lawyer": taking the oath, and signing the Roll. A person who has done only one is not yet a lawyer, and any act of practice performed in that gap is unauthorized practice — see [[Unauthorized Practice of Law]].
 
+Both steps presuppose that the Court is satisfied the candidate deserves to take them at all — and the oath itself can be withheld even from someone who has already passed the Bar Examinations. **[[In re Argosino, B.M. No. 712|In re: Argosino]]** shows the sequence stalling at its very first step. Al Argosino passed the 1993 Bar Examinations, but the Court deferred his oath-taking altogether because of his conviction for reckless imprudence resulting in homicide, arising from the 1991 fraternity hazing death of neophyte Raul Camaligan. Argosino was allowed to take the oath — and only then proceed toward signing the Roll — but only after he produced more than fifteen certifications, including from two senators, five trial court judges, and six members of religious orders, and evidence that a scholarship foundation had been established in the victim's honor through the joint efforts of his family and the eight accused. Even the victim's own father, himself a lawyer, declined to say whether Argosino was now fit to practice and left the question to the Court's discretion. The lesson for this note specifically: "signing the Roll" is the last stop in a sequence, not the first gate, and a candidate can be stopped well before ever reaching it if the oath itself is withheld pending proof of reformed character.
+
 ## Why the signature is not a formality
 
 It is tempting to treat the Roll as a clerical record-keeping step, and that temptation is exactly what [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado|In Re: Medado]] (B.M. No. 2540, 24 Sept. 2013) is built to correct. Medado took the oath in 1980, mistakenly believed that a document he signed at the venue entrance was the Roll itself, and practiced law competently for more than three decades before discovering the mistake. Even so, the moment he found the misplaced notice and realized he had never actually signed, his authority to keep practicing evaporated — not because his decades of work were deficient, but because **signing the Roll, not merely taking the oath or behaving like a lawyer, is the act that completes admission.**
@@ -52,13 +54,6 @@ Medado's digest is the vault's cleanest illustration of a recurring bar-exam Lat
 
 Signing the Roll for the first time is different from being restored to it after disbarment. Under CPRA, Canon VI, Secs. 47–51, a disbarred lawyer may petition for **judicial clemency** only after five years from the disbarment decision, must show full compliance with prior disciplinary orders, genuine recognition of wrongdoing, reconciliation efforts (or a public apology where there is no private offended party), and continuing good moral character and competence — decided on **clear and convincing evidence**. See [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] for the foundational "preservative, not vindictive" discipline principle this framework still rests on, even though Edillon predates the CPRA's codified clemency procedure.
 
-## Related cases
-
-- [[Aguirre v. Rana]] — the two essential requisites doctrine; unauthorized practice before either one is completed.
-- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — the Roll as substantive, not clerical; mistake of fact versus mistake of law.
-- [[In re Argosino, B.M. No. 712]] — deferred oath-taking pending proof of reformed moral character, the step that precedes signing.
-- [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — reinstatement to the Roll after disbarment, and the preservative principle behind it.
-
 ## Bar traps
 
 ### Trap 1: "Taking the oath is the moment a bar passer becomes a lawyer."
@@ -77,6 +72,10 @@ Wrong. Timing and conduct matter: Rana practiced deliberately before his own adm
 
 Wrong. It requires a verified petition for judicial clemency filed only after five years, supported by clear and convincing evidence of compliance, reformation, and reconciliation — not a fixed suspension term that lapses automatically.
 
+### Trap 5: "Passing the Bar guarantees the oath will be administered as scheduled."
+
+Wrong. [[In re Argosino, B.M. No. 712|In re: Argosino]] shows the Court can defer the oath itself, before the candidate ever reaches the Roll, pending proof that a disqualifying moral-character problem has been overcome.
+
 ## Rule anchor map
 
 | Issue | Main anchor |
@@ -86,6 +85,7 @@ Wrong. It requires a verified petition for judicial clemency filed only after fi
 | Signing the Roll | Rule 138, Sec. 19 |
 | Two essential requisites | *Aguirre v. Rana* (2003) |
 | Roll as substantive act, not formality | *In Re: Medado* (2013) |
+| Oath itself deferrable pending moral character proof | [[In re Argosino, B.M. No. 712|In re: Argosino]] (1997) |
 | Reinstatement/judicial clemency | CPRA, Canon VI, Secs. 47-51 |
 
 ## Recall questions
@@ -102,13 +102,16 @@ A: Rana practiced deliberately before his own admission was complete, for an act
 Q: How soon after disbarment may a lawyer petition for judicial clemency to be reinstated?  
 A: Not less than five years from receipt of the disbarment order, decision, or resolution.
 
+Q: Can the Supreme Court stop a successful bar examinee before the oath-and-Roll sequence even starts?  
+A: Yes — [[In re Argosino, B.M. No. 712|In re: Argosino]] shows the Court deferring the oath itself pending proof that a disqualifying moral-character problem (there, a hazing-related homicide conviction) had been overcome.
+
 ## Source ladder
 
 Use sources in this order:
 
 1. Rule 138, Secs. 17-19, Rules of Court.
 2. CPRA, Canon VI, Secs. 47-51 (judicial clemency and reinstatement).
-3. Supreme Court cases, especially [[Aguirre v. Rana]] and [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]].
+3. Supreme Court cases, especially [[Aguirre v. Rana]], [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]], and [[In re Argosino, B.M. No. 712]].
 4. Private review materials only as reading guides, not as text to copy into the public repository.
 
 ## Related notes
