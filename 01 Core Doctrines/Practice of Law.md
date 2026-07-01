@@ -98,7 +98,7 @@ Key reminders:
 
 ## Public officials and private practice
 
-Some lawyers in public office are absolutely prohibited from private practice. Others may practice only within strict limits. The issue is not merely whether the lawyer is licensed, but whether public office creates a constitutional, statutory, civil-service, or ethical restriction.
+Some lawyers in public office are absolutely prohibited from private practice. Others may practice only within strict limits. The issue is not merely whether the lawyer is licensed, but whether public office creates a constitutional, statutory, civil-service, or ethical restriction. Even where the underlying acts fall short of "private practice" — an isolated, unpaid appearance rather than a habitual one — a government lawyer may still need prior written permission from the head of the department before engaging in it at all; informal clearance from an immediate superior is not enough. See [[Office of the Court Administrator vs. Atty. Misael M. Ladaga]].
 
 See:
 
@@ -110,7 +110,7 @@ See:
 
 ## Unauthorized practice of law
 
-Unauthorized practice may occur when a person who is not allowed to practice law performs acts reserved to lawyers, or when a lawyer practices despite a disability, suspension, disbarment, lack of admission, or failure to complete admission requirements.
+Unauthorized practice may occur when a person who is not allowed to practice law performs acts reserved to lawyers, or when a lawyer practices despite a disability, suspension, disbarment, lack of admission, or failure to complete admission requirements. The duty not to assist unauthorized practice — the case law still calls it "Canon 9," after the repealed 1988 Code of Professional Responsibility — now lives in **CPRA, Canon II, Section 35** (non-delegable legal tasks), and it subsumes a lawyer's **own** unauthorized practice, not only assistance rendered to someone else. Assistance itself is not all-or-nothing: actively co-signing pleadings under a disbarred lawyer's firm name is sanctionable, while a merely passive, ministerial filing as counsel of record may not be, because a law firm has a juridical personality distinct from its named partners.
 
 See:
 
@@ -124,10 +124,16 @@ See:
 - [[Cayetano v. Monsod]] — broad definition of practice of law; legal work may be in or out of court.
 - [[People vs. Simplicio Villanueva]] — isolated appearance by a public official did not necessarily amount to private practice in the disciplinary sense.
 - [[Ulep v. The Legal Clinic, Inc.]] — corporations cannot practice law; commercialized legal services and legal-document services may still involve practice of law.
-- [[Aguirre v. Rana]] — passing the bar is not enough; a bar passer must take the oath and sign the Roll before practicing.
-- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — failure to sign the Roll may make later law practice unauthorized once the omission is known.
+- [[Aguirre v. Rana]] — passing the bar is not enough; a bar passer must take the oath and sign the Roll before practicing; practicing before either one is complete can permanently bar admission.
+- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — failure to sign the Roll may make later law practice unauthorized once the omission is known; contrast with *Aguirre v. Rana* on when leniency versus outright denial applies.
 - [[Maderada v. Judge Mediodea]] — self-representation is different from representing another as counsel.
 - [[Catu v. Rellosa]] — notarization is practice of law; government lawyers must observe restrictions on private practice.
+- [[In re Argosino, B.M. No. 712]] — good moral character as a condition the Court may defer, and later clear, before oath-taking.
+- [[Office of the Court Administrator vs. Atty. Misael M. Ladaga]] — isolated, unpaid court appearances by a court employee are not "private practice," but still require the Supreme Court's prior written permission, not just the presiding judge's informal knowledge.
+- [[People of the Philippines v. Hon. Bonifacio Sanz Maceda and Avelino T. Javellana]] — a detention prisoner cannot practice law; the privilege presupposes freedoms incompatible with custodial restraint.
+- [[Arienda v. Monilla]] — a non-lawyer court employee who prepares legal documents for a fee is engaged in unauthorized practice of law, regardless of the private, off-duty nature of the arrangement.
+- [[Bonifacio v. Atty. Era and Atty. Bragas]] — a suspended lawyer who keeps acting for clients is practicing law despite the suspension; an associate who knowingly helps him is separately liable for assisting.
+- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — decided under the CPRA; distinguishes active assistance in a disbarred lawyer's unauthorized practice from passive, ministerial association with the same firm name.
 
 ## Bar traps
 
@@ -155,6 +161,10 @@ Wrong. A corporation cannot practice law. Lawyers may not use a corporate vehicl
 
 Wrong. Notarization is not a casual clerical act. It is connected with the practice of law and public trust.
 
+### Trap 7: “Decades of otherwise-clean practice cure an unsigned Roll once the lawyer learns about it.”
+
+Wrong. In *[[In Re Petition to Sign in the Roll of Attorneys, Michael Medado|In Re: Medado]]*, an honest mistake of fact (believing the Roll had been signed) excused the lawyer only until he discovered the omission. From that point, continuing to practice was willful and unexcused, because a mistake of law — not knowing that practicing without a signed Roll is unauthorized — never excuses. Compare [[Aguirre v. Rana]], where practicing before admission was complete led to outright denial rather than a lenient cure.
+
 ## Rule anchor map
 
 | Issue | Main anchor |
@@ -165,7 +175,7 @@ Wrong. Notarization is not a casual clerical act. It is connected with the pract
 | Non-lawyer appearance | Rule 138, special laws, tribunal rules |
 | Law student practice | Revised Law Student Practice Rule |
 | Public-official restrictions | Constitution, Local Government Code, Civil Service rules, special laws, CPRA |
-| Unauthorized practice | Rule 138, disciplinary cases, contempt power |
+| Unauthorized practice | CPRA, Canon II, Sec. 35; Rule 71, Sec. 3(e) (contempt); disciplinary cases |
 | Notarial acts | 2004 Rules on Notarial Practice; related disciplinary cases |
 
 ## Recall questions
@@ -194,6 +204,12 @@ A: No. Compensation is an indicator but not an absolute requirement.
 Q: Why are public officials treated separately?  
 A: Because even if they are lawyers, public office may impose constitutional, statutory, civil-service, or ethical limits on private practice.
 
+Q: Is "Canon 9, Code of Professional Responsibility" still the operative text for the duty not to assist unauthorized practice?  
+A: No. The 1988 CPR is repealed; the modern anchor is CPRA, Canon II, Sec. 35, though case law still narrates the duty as a "Canon 9" violation.
+
+Q: Does a mistake of fact excuse unauthorized practice indefinitely?  
+A: No. It excuses only until the true facts are discovered; continued practice afterward is willful, because a mistake of law never excuses.
+
 ## Source ladder
 
 Use sources in this order:
@@ -204,7 +220,7 @@ Use sources in this order:
 4. Revised Lawyer’s Oath.
 5. Revised Law Student Practice Rule.
 6. Rules on Notarial Practice.
-7. Supreme Court cases, especially [[Cayetano v. Monsod]], [[Ulep v. The Legal Clinic, Inc.]], [[Aguirre v. Rana]], and related disciplinary cases.
+7. Supreme Court cases, especially [[Cayetano v. Monsod]], [[Ulep v. The Legal Clinic, Inc.]], [[Aguirre v. Rana]], [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]], and related disciplinary cases.
 8. Bar bulletins and official Supreme Court pages.
 9. Private review materials only as reading guides, not as text to copy into the public repository.
 
