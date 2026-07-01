@@ -14,11 +14,54 @@ status: active
 
 # Practice of Law — Legal Ethics Dashboard
 
-This is the cockpit for the **Basic Legal and Judicial Ethics** vault. Use it to move from broad doctrine → case application → bar traps → active recall.
+This is the home cockpit for the **Basic Legal and Judicial Ethics** vault. Use it to move from broad doctrine → case application → bar traps → active recall.
 
 The vault should not become a dump of review handouts. The goal is to build a **linked doctrine + case + bar-trap + flashcard system** using original summaries and public primary sources.
 
 > Public repo rule: keep copyrighted PDFs, screenshots, copied tables, and verbatim review-center text out of GitHub. Use review materials only as private references, then rewrite doctrine, cases, tables, and recall cards in your own words.
+
+---
+
+## Home dashboard
+
+### Start here
+
+| Need | Go to | Output |
+|---|---|---|
+| Learn the foundation | [[Practice of Law]] · [[Admission to the Bar]] · [[Continuing Requirements for the Practice of Law]] | Core doctrine notes with rule, elements, exceptions, cases, traps, and recall questions |
+| Review lawyer duties | [[CPRA Canon Index]] · [[Canon I - Independence]] · [[Canon II - Propriety]] · [[Canon III - Fidelity]] · [[Canon IV - Competence and Diligence]] · [[Canon V - Equality]] · [[Canon VI - Accountability]] | Canon-by-canon rule map |
+| Drill technical rules | [[Notarial Practice]] · [[Notarial Defects and Sanctions Table]] · [[Remote Notarization]] | Notarial mini-vault |
+| Separate judges from lawyers | [[New Code of Judicial Conduct]] · [[Judicial Independence]] · [[Judicial Integrity]] · [[Judicial Impartiality]] · [[Judicial Propriety]] · [[Judicial Equality]] · [[Judicial Competence and Diligence]] | Judicial ethics map |
+| Build exam tables | [[Appearance of Non-Lawyers - Comparison Table]] · [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]] · [[Public Officials and Private Practice Table]] · [[Conflict of Interest Decision Tree]] | Fast attack sheets |
+| Practice active recall | [[Legal Ethics Bar Traps]] · [[Legal Ethics Flashcards]] · [[Ethics Case Index]] | Bar traps, flashcards, and case anchors |
+| Draft practical forms | [[Practical Exercises Index]] · [[Demand Letters]] · [[Verification and Certification Against Forum Shopping]] · [[Motions]] · [[Information in Criminal Cases]] | Practical-exercise checklist |
+
+### Major ethics areas
+
+| Area | Scope | Main launchpad |
+|---|---|---|
+| Practice of Law and Admission | Who may practice, what counts as law practice, admission, oath, membership, and continuing obligations | [[Practice of Law]] |
+| Lawyer Duties under the CPRA | Independence, propriety, fidelity, competence, equality, and accountability | [[CPRA Canon Index]] |
+| Notarial Practice | Commission, powers, limitations, register, identity, remote notarization, and sanctions | [[Notarial Practice]] |
+| Judicial Ethics | New Code of Judicial Conduct, judge qualities, inhibition, discipline, and clemency | [[New Code of Judicial Conduct]] |
+| Practical Exercises | Common bar drafting outputs and form-based ethical risks | [[Practical Exercises Index]] |
+| Cases, Bar Traps, and Recall | Case digest spine, repeated traps, and flashcards | [[Ethics Case Index]] |
+
+### Fast routes
+
+- **First-time review:** [[Practice of Law]] → [[Admission to the Bar]] → [[Continuing Requirements for the Practice of Law]] → [[CPRA Canon Index]]
+- **CPRA review:** [[Canon I - Independence]] → [[Canon II - Propriety]] → [[Canon III - Fidelity]] → [[Canon IV - Competence and Diligence]] → [[Canon V - Equality]] → [[Canon VI - Accountability]]
+- **Table sprint:** [[Appearance of Non-Lawyers - Comparison Table]] → [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]] → [[Public Officials and Private Practice Table]] → [[Legal Ethics Sanctions Table]]
+- **Judicial ethics sprint:** [[New Code of Judicial Conduct]] → [[Disqualification and Inhibition of Judges]] → [[Discipline of Judges and Court Personnel]]
+- **Memory sprint:** [[Legal Ethics Bar Traps]] → [[Legal Ethics Flashcards]] → [[Ethics Case Index]]
+
+### Dashboard checkpoints
+
+- [x] Home dashboard links to all major ethics areas.
+- [ ] Each major area has its own index note.
+- [ ] Each index note links to rules, cases, traps, and recall cards.
+- [ ] Each high-yield table is rewritten in original language.
+- [ ] No copyrighted PDF or copied reviewer table is committed to the public repo.
 
 ---
 
@@ -35,7 +78,7 @@ The vault should not become a dump of review handouts. The goal is to build a **
 
 ## Today’s build queue
 
-- [ ] Convert this MOC into a true home dashboard with links to all major ethics areas.
+- [x] Convert this MOC into a true home dashboard with links to all major ethics areas.
 - [ ] Create a clean note for [[Practice of Law]].
 - [ ] Create a clean note for [[Admission to the Bar]].
 - [ ] Create a clean note for [[Continuing Requirements for the Practice of Law]].
@@ -170,6 +213,23 @@ Use the New Code of Judicial Conduct as a separate branch. Judges and lawyers sh
 - [[Judicial Competence and Diligence]] — prompt disposition, legal competence, administrative supervision.
 - [[Disqualification and Inhibition of Judges]] — mandatory disqualification, voluntary inhibition, relationships, bias, and prior participation.
 - [[Discipline of Judges and Court Personnel]] — serious, less serious, and light charges; sanctions; aggravating and mitigating factors.
+
+---
+
+## Practical exercises map
+
+Use this area for short drafting checklists. Keep the notes practical, ethics-aware, and easy to rehearse under time pressure.
+
+- [[Practical Exercises Index]] — central page for form-based outputs.
+- [[Promissory Notes and Simple Loan Agreements]] — parties, amount, due date, interest, default, signatures.
+- [[Demand Letters]] — facts, demand, legal basis, deadline, tone, and attachments.
+- [[Sale Documents]] — object, price, warranties, delivery, and acknowledgments.
+- [[Lease Contract]] — parties, property, term, rent, deposits, duties, termination.
+- [[Special Power of Attorney]] — authority granted, object, scope, limits, and notarization.
+- [[Verification and Certification Against Forum Shopping]] — truth statement, non-forum-shopping certification, authority to sign.
+- [[Motions]] — relief, grounds, prayer, notice, service, and proof.
+- [[Quitclaims in Labor Cases]] — voluntariness, consideration, fairness, and waiver limits.
+- [[Information in Criminal Cases]] — offense charged, acts or omissions, qualifying/aggravating circumstances, venue, date, and accused.
 
 ---
 
@@ -468,6 +528,7 @@ Basic Legal and Judicial Ethics/
 ├─ 06 Bar Traps/
 ├─ 07 Flashcards/
 ├─ 08 Flowcharts and Tables/
+├─ 09 Practical Exercises/
 └─ 99 Sources/
 ```
 
