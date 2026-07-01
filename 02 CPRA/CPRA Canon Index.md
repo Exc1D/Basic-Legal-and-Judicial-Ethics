@@ -11,7 +11,11 @@ up: "[[Legal and Judicial Ethics MOC]]"
 
 # CPRA Canon Index
 
-Use this page as the launchpad for the **Code of Professional Responsibility and Accountability**.
+Use this page as the launchpad for the **Code of Professional Responsibility and Accountability (CPRA)**, promulgated by the Supreme Court as **A.M. No. 22-09-01-SC** (13 April 2023), replacing the 1988 Code of Professional Responsibility.
+
+## Retroactivity — a recurring bar trap
+
+Per the CPRA's own General Provisions, Sec. 1, the Code applies to **all cases filed after its effectivity**, and **retroactively to pending cases** — except where retroactive application would be infeasible or would work an injustice, in which case the procedure under which the case was originally filed governs instead. Do not assume the old 1988 Code controls simply because the underlying conduct predates April 2023.
 
 ## Canon map
 
