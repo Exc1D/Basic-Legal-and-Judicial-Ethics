@@ -39,6 +39,31 @@ A: The charge must have been decided with finality against the applicant — a m
 Q: Is CLEP completion still optional for Bar applicants?  
 A: No. It is now a mandatory prerequisite to sit the Bar Examinations.
 
+Q: May the Legal Education Board set the qualifications for admission to the practice of law?  
+A: No. LEB may regulate legal education generally, but only the Supreme Court has exclusive power over admission to practice — the basis for striking down PhiLSAT as a mandatory law-school admission gate.
+
+## Citizenship and good moral character
+
+Q: Within what period must a legitimate child born under the 1935 Constitution, of a Filipino mother and alien father, elect Philippine citizenship?  
+A: Within a reasonable time after majority, construed as roughly three years.
+
+Q: Does passing the Bar Examinations cure a defective or untimely election of citizenship?  
+A: No — citizenship must be established as a fact independent of exam performance.
+
+Q: Does reacquiring Philippine citizenship under RA 9225 automatically restore a lawyer's privilege to practice?  
+A: No. The lawyer must petition the Supreme Court directly and retake the Lawyer's Oath.
+
+Q: Is good moral character checked only once, at admission?  
+A: No. It is a continuing requirement; the time elapsed between misconduct and a complaint does not excuse it.
+
+## The Lawyer's Oath
+
+Q: Is the Lawyer's Oath relevant only to admission disputes?  
+A: No. Courts cite oath violations as an independent or aggravating ground across nearly every kind of disciplinary case, including ordinary negligence.
+
+Q: What is the most symbolically significant addition in the 2023-revised Lawyer's Oath?  
+A: The express commitment to "justice" and to "greater and equitable access to justice" — language absent from the pre-2023 oath.
+
 ## Continuing requirements
 
 Q: Name the seven continuing requirements for the practice of law.  
@@ -53,6 +78,9 @@ A: 60 hours every 36 months.
 Q: Is IBP membership optional for an admitted lawyer?  
 A: No. It is automatic and compulsory, and does not violate freedom of association.
 
+Q: Is failing to complete MCLE units the same wrong as falsely claiming MCLE exemption?  
+A: No. Non-compliance is cured by a fee; falsely claiming exemption is a knowing misrepresentation to the court that alone can draw a multi-year suspension.
+
 ## Law student practice
 
 Q: What are the two certification levels under the Revised Law Student Practice Rule?  
@@ -60,6 +88,9 @@ A: Level 1 (after first-year law courses) and Level 2 (upon enrollment in second
 
 Q: Who signs pleadings filed on behalf of a CLEP client?  
 A: The supervising attorney, on behalf of the legal clinic — not the student.
+
+Q: May an uncertified law student appear as private prosecutor in an inferior court?  
+A: Yes — as a mere agent or friend of the party under Section 34, Rule 138, entirely independent of Rule 138-A certification.
 
 ## Non-lawyers and prohibited proceedings
 
@@ -71,6 +102,12 @@ A: Yes, but only as a party in his own case, or as non-lawyer next-of-kin assist
 
 Q: Who is barred from appearing at a small-claims hearing?  
 A: Lawyers, unless the lawyer is personally the plaintiff or defendant.
+
+Q: Are the Rules on Expedited Procedures in the First Level Courts a lawyer-free zone, like small claims?  
+A: No. Only the small-claims track (Rule IV) restricts lawyer appearance; the expedited-procedure civil track proper allows ordinary counsel.
+
+Q: How does party representation in arbitration differ from litigation?  
+A: A party may be represented by counsel or any other authorized representative, reflecting arbitration's broader party autonomy.
 
 ## Unauthorized practice and the Roll of Attorneys
 
@@ -89,16 +126,31 @@ A: Rana was denied admission outright for practicing deliberately before his own
 Q: Is signing pleadings under a disbarred lawyer's firm name always sanctionable for every co-signing lawyer?  
 A: No — active co-signing of a substantive pleading is sanctionable; a passive, ministerial filing as counsel of record may not be.
 
+Q: Must a non-lawyer actually appear in court to be "held out" as authorized to practice?  
+A: No — letterhead, a business card, or an ID identifying a non-lawyer as "Atty." is itself enough.
+
+Q: What happens to a lawyer who keeps practicing while already under an active suspension?  
+A: A fresh, separately punishable offense — disobedience of the Court's order — stacked on top of the original suspension.
+
 ## Public officials and private practice
 
 Q: Are governors and mayors absolutely barred from private practice?  
 A: Yes, unlike ordinary Sanggunian members, who face only qualified restrictions.
+
+Q: Are Vice-Governors and Vice-Mayors absolutely barred like governors and mayors?  
+A: No. They remain Sanggunian members under the qualified-practice regime, despite presiding over the Sanggunian.
 
 Q: What exactly does the Senator/Representative constitutional bar prohibit?  
 A: Personal appearance as counsel before courts, Electoral Tribunals, or quasi-judicial/administrative bodies, including signing or filing pleadings.
 
 Q: Where is the retired Justice/Judge counsel-restriction found in RA 910?  
 A: The proviso to Section 1, not Section 5.
+
+Q: Does resigning from a government legal post immediately clear a lawyer to practice before their former office?  
+A: No. RA 6713, Sec. 7(b)(2) imposes a one-year post-employment restriction.
+
+Q: May a government-employed lawyer be disciplined as a member of the Bar for misconduct in that government office?  
+A: Generally no — unless the misconduct is serious enough to affect the lawyer's qualification or shows moral delinquency, such as forgery.
 
 ## Add new cards here
 

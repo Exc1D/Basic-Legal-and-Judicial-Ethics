@@ -22,11 +22,27 @@ Use this folder for case digests and case-to-doctrine links.
 - [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — failure to sign the Roll and unauthorized practice.
 - [[Maderada v. Judge Mediodea]] — self-representation distinguished from law practice for another.
 - [[Catu v. Rellosa]] — notarial acts and government lawyer restrictions.
+- [[Sps. Agbulos v. Gutierrez]] — presumption of a lawyer's continuing authority to appear on appeal; ratification of an unauthorized appearance. See [[Practice of Law]] and [[Privileges of a Lawyer]].
 
-## Admission, good moral character, and Bar integration
+## Admission, citizenship, good moral character, and Bar integration
 
 - [[In re Argosino, B.M. No. 712]] — good moral character as a condition precedent and a rehabilitable, continuing standard. See [[Admission to the Bar]].
+- [[Garrido v. Attys. Garrido and Valencia]] — good moral character as a continuing requirement; disbarment for gross immorality regardless of timing.
+- [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching]] — election of citizenship within a reasonable time; passing the Bar does not cure an untimely election.
+- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] — reacquiring citizenship under RA 9225 does not automatically restore the practice privilege.
+- [[Pimentel v. Legal Education Board]] — the Court's exclusive power over admission versus LEB's power over legal education; PhiLSAT struck down. See [[Admission to the Bar]].
 - [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — compulsory IBP integration, dues, and freedom of association. See [[Continuing Requirements for the Practice of Law]].
+- [[Turla v. Atty. Caringal]] — MCLE non-compliance versus false MCLE-exemption claims. See [[Continuing Requirements for the Practice of Law]].
+
+## The Lawyer's Oath as a continuing standard
+
+- [[Katipunan v. Atty. Carrera]] — the oath invoked in an ordinary diligence/client-communication case, not only in admission disputes.
+- [[Santos v. Atty. Paña]] — falsification of court documents as a direct oath violation; disbarment.
+- [[Pante v. Atty. Tebelin]] — fiduciary betrayal and borrowing from a client framed as an oath violation; disbarment; source of the oath's verified full text. See [[Revised Lawyer's Oath]].
+
+## Law student practice
+
+- [[Cruz v. Mina]] — a law student's Section 34 appearance as private prosecutor for his own father, independent of Rule 138-A certification. See [[Law Student Practice Rule]].
 
 ## Law as a profession, not a business
 
@@ -54,6 +70,11 @@ Use this folder for case digests and case-to-doctrine links.
 - [[Bonifacio v. Atty. Era and Atty. Bragas]] — suspended lawyer continuing to practice; associate liable for actively assisting.
 - [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer co-signing pleadings; active versus passive assistance, decided under the CPRA.
 - [[Arienda v. Monilla]] — non-lawyer court employee preparing legal documents. See [[Appearance of Non-Lawyers]] and [[Unauthorized Practice of Law]].
+- [[Cambaliza v. Cristal-Tenorio]] — holding out a non-lawyer as "Atty." via firm letterhead and ID; no appearance required to violate the rule.
+- [[Zeta v. Malinao]] — non-lawyer court interpreter directly representing litigants for a fee; dismissal from service.
+- [[Tan, Jr. v. Atty. Gumba]] — practicing during an active suspension as a fresh, separately punishable offense.
+- [[Saladaga v. Astorga]] — dishonesty in a purely personal transaction still supports Bar discipline.
+- [[Gonzales-Austria v. Abaya]] — a government lawyer's official misconduct (forgery) as an independent Bar-discipline ground.
 
 ## Government and court employees
 
@@ -61,6 +82,9 @@ Use this folder for case digests and case-to-doctrine links.
 - [[Office of the Court Administrator vs. Atty. Misael M. Ladaga]] — judiciary employee needs prior written Supreme Court permission. See [[Public Officials and Private Practice]].
 - [[Maderada v. Judge Mediodea]] — self-representation distinguished from representing another.
 - [[Arienda v. Monilla]] — integrity of court personnel in private dealings.
+- [[Ziga v. Judge Arejola]] — a judge's continued appearance in a pre-appointment family case; no exception for family matters.
+- [[In Re Query of Atty. Karen M. Silverio-Buffe]] — one-year post-employment restriction under RA 6713, Sec. 7(b)(2), applied to a former Clerk of Court.
+- [[Gonzales-Austria v. Abaya]] — government misconduct (forgery) as an independent Bar-discipline ground, separate from any administrative penalty.
 
 ## Candor, misconduct, and the Lawyer's Oath
 

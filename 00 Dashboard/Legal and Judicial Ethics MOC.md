@@ -12,6 +12,7 @@ aliases:
   - MOC
   - Index
   - Practice of Law Map
+  - Practice of Law — Map of Content
 status: active
 ---
 
@@ -107,6 +108,10 @@ These are the first notes to build because they explain who may practice law, wh
 - [[Public Officials and Private Practice]] — absolute prohibitions, qualified prohibitions, and retired judges/justices.
 - [[Unauthorized Practice of Law]] — non-lawyers performing lawyer-exclusive acts, and lawyers practicing without current authority; the CPRA's Canon II, Sec. 35 successor to "Canon 9."
 - [[Signing of the Roll of Attorneys]] — the oath and the Roll as two distinct, indispensable steps; *Aguirre v. Rana* versus *In Re: Medado*.
+- [[Revised Lawyer's Oath]] — the 2023-revised oath's full text, why it changed, and its role as a continuing disciplinary touchstone, not just an admission formality.
+- [[Who May Practice Law]] — roadmap note distinguishing members in good standing, suspended/disbarred lawyers, non-members with limited practice rights, restricted public officials, and foreign lawyers.
+- [[Foreign Lawyers]] — the general exclusion of foreign-qualified lawyers and the narrow international-arbitration exception.
+- [[Privileges of a Lawyer]] — national right to appear before any court, privileged communication, privileged pleading statements, and attorney's liens.
 
 ---
 
@@ -294,6 +299,7 @@ These are the current case anchors already linked in this MOC. Keep improving th
 - [[Cayetano v. Monsod]] — broad definition: legal knowledge, training, and experience in or out of court.
 - [[People vs. Simplicio Villanueva]] — habituality and compensation; isolated appearance does not necessarily equal private practice.
 - [[Ulep v. The Legal Clinic, Inc.]] — corporations cannot practice law; legal-support services may still be legal practice.
+- [[Sps. Agbulos v. Gutierrez]] — presumption of a lawyer's continuing authority to appear on appeal; ratification of a technically unauthorized appearance.
 
 ### Law as a profession, not a business
 
@@ -324,6 +330,10 @@ These are the current case anchors already linked in this MOC. Keep improving th
 - [[Bonifacio v. Atty. Era and Atty. Bragas]] — suspended lawyer continuing to practice; assisting unauthorized practice.
 - [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer and co-signing pleadings; active versus passive assistance.
 - [[Arienda v. Monilla]] — non-lawyer court employee preparing legal documents.
+- [[Cambaliza v. Cristal-Tenorio]] — holding out a non-lawyer as "Atty." via letterhead and ID.
+- [[Zeta v. Malinao]] — non-lawyer court interpreter directly representing litigants for a fee.
+- [[Tan, Jr. v. Atty. Gumba]] — practicing during an active suspension as a fresh, separate offense.
+- [[Saladaga v. Astorga]] — discipline for dishonesty in a purely personal transaction.
 
 ### Government and court employees
 
@@ -331,6 +341,9 @@ These are the current case anchors already linked in this MOC. Keep improving th
 - [[Office of the Court Administrator vs. Atty. Misael M. Ladaga]] — judiciary employee needs prior written Supreme Court permission.
 - [[Maderada v. Judge Mediodea]] — self-representation distinguished from representing another.
 - [[Arienda v. Monilla]] — integrity of court personnel in private dealings.
+- [[Ziga v. Judge Arejola]] — a judge's continued appearance in a pre-appointment family case; no exception.
+- [[In Re Query of Atty. Karen M. Silverio-Buffe]] — one-year post-employment restriction on practicing before a former office.
+- [[Gonzales-Austria v. Abaya]] — government misconduct (forgery) as an independent Bar-discipline ground.
 
 ### Candor, misconduct, and the Lawyer’s Oath
 
@@ -339,12 +352,22 @@ These are the current case anchors already linked in this MOC. Keep improving th
 - [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — insubordination independent of substantive charge.
 - [[Canonoy vs. Atty. Guibone]] — suspension reckoning date and compliance manipulation.
 
-### Admission, moral character, and reinstatement
+### Admission, citizenship, moral character, and reinstatement
 
 - [[In re Argosino, B.M. No. 712]] — moral character, rehabilitation, and oath-taking.
 - [[Aguirre v. Rana]] — unauthorized practice before signing the Roll; privilege denied even after passing the bar.
 - [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — decades of practice on an unsigned Roll; belated signing allowed only with a penalty.
 - [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — IBP dues, integration, disbarment, and reinstatement.
+- [[In Re Application for Admission to the Philippine Bar of Vicente D. Ching]] — election of citizenship must be timely; passing the Bar does not cure an untimely election.
+- [[In Re Petition to Re-acquire the Privilege to Practice Law, B.M. No. 2112]] — RA 9225 reacquisition does not automatically restore the practice privilege.
+- [[Garrido v. Attys. Garrido and Valencia]] — good moral character as a continuing requirement; disbarment regardless of timing.
+- [[Pimentel v. Legal Education Board]] — the Court's exclusive admission power versus LEB's power over legal education.
+
+### The Lawyer's Oath as a continuing standard
+
+- [[Katipunan v. Atty. Carrera]] — the oath invoked in an ordinary diligence/client-communication case.
+- [[Santos v. Atty. Paña]] — falsification of court documents as a direct oath violation.
+- [[Pante v. Atty. Tebelin]] — fiduciary betrayal and client borrowing as an oath violation; source of the oath's verified full text.
 
 ### Discipline and mechanics
 
@@ -387,7 +410,6 @@ Use this list to expand beyond the existing Practice of Law case spine.
 ### Fiduciary duties and conflicts
 
 - [[Nakpil v. Valdes]] — fiduciary nature of attorney-client relationship.
-- [[Katipunan v. Atty. Carrera]] — diligence, care, and devotion upon engagement.
 - [[Ramirez v. Atty. Margallo]] — lawyer bears cost of indifference or negligence.
 - [[Spouses Niles v. Atty. Retardo]] — conflict of interest and appearance of treachery.
 - [[Artezuela v. Atty. Maderazo]] — hidden assistance to adverse party as conflict.
