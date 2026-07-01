@@ -69,6 +69,18 @@ Use this note for short, exam-facing traps. Each entry should point back to a do
 - Rule 138, Sec. 35's absolute bar on judges reaches even a case begun **before** appointment and involving the judge's own **family** — there is no exception for either. See [[Ziga v. Judge Arejola]].
 - Resigning or retiring from government service does **not** immediately clear a lawyer to practice before their own former office — RA 6713, Sec. 7(b)(2) imposes a **one-year** post-employment restriction. See [[In Re Query of Atty. Karen M. Silverio-Buffe]].
 
+## CPRA Canon I (Independence) traps
+
+- "Accessible, efficient, effective legal service" is a floor, not an aspiration — a lawyer who takes an engagement and then does *nothing* for years fails Sec. 1 in its most basic form, independent of any other misconduct. See [[Canon I - Independence]] and [[Jacolbia v. Atty. Panganiban]].
+- CPRA Canon I, Sec. 2 (merit-based practice) punishes the **appearance** of influence on a court or tribunal independently of whether real influence occurred — namedropping alone is enough. See [[Merit-Based Practice]] and [[Judge Dumlao, Jr. v. Atty. Camacho]].
+- Merit-based practice is **not limited to the regular courts** — it reaches "all other venues in the justice sector," including executive agencies like the DOJ. See [[Merit-Based Practice]] and [[Jimenez and Vizconde v. Atty. Verano, Jr.]].
+- Philippine jurisdiction recognizes **no double or multiple disbarment** — a lawyer already disbarred in one case who is found liable in a second, unrelated case receives only a nominal penalty (for the Office of the Bar Confidant's record), not a second disbarment. See [[Merit-Based Practice]] and [[Judge Dumlao, Jr. v. Atty. Camacho]].
+- Do not confuse **Sec. 2** (the lawyer influencing the tribunal) with **Sec. 3** (something else improperly influencing the lawyer's own advocacy) — they run in opposite directions. See [[Freedom from Improper Considerations and External Influences]].
+- Sec. 5 protects the lawyer's control over **procedure and strategy**, not the client's control over case **objectives** or the decision to **settle** — a client cannot dictate how a case is handled, but still decides what the case is about and whether to compromise it. See [[Lawyer's Duty and Discretion in Procedure and Strategy]].
+- A bad outcome from a good-faith strategic call (e.g., pursuing an appeal against a client's wishes) is not itself a Sec. 5 violation — the rule protects the lawyer's authority to make the call, not a guaranteed result. See [[Lawyer's Duty and Discretion in Procedure and Strategy]].
+- Not every case a review source files under a given CPRA section actually fits that section's facts. [[Olvida v. Gonzales]] is commonly cited for Canon I, Sec. 4 (non-interference), but its facts show plain neglect and dishonesty, not government interference — its real Canon I link is Sec. 5. Read the facts, not just the citation's placement. See [[Canon I - Independence]].
+- Filing multiple retaliatory suits against a former client over a fee dispute is not proper self-help — it aggravates, rather than excuses, an underlying ethics violation. See [[Merit-Based Practice]] and [[Vantage Lighting Philippines v. Atty. Diño, Jr.]].
+
 ## Entry format
 
 ```markdown

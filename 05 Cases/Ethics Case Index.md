@@ -62,6 +62,14 @@ Use this folder for case digests and case-to-doctrine links.
 
 - [[Rosario, Jr. v. De Guzman]] — ordinary compensation, extraordinary fees, quantum meruit, and written fee arrangements.
 
+## CPRA Canon I — Independence
+
+- [[Jacolbia v. Atty. Panganiban]] — twelve years of total inaction plus refusal to return client funds and documents; accessible/efficient/effective legal service. See [[Canon I - Independence]].
+- [[Judge Dumlao, Jr. v. Atty. Camacho]] — namedropping Supreme Court Justices, a bribery offer to a judge, and threats to a sheriff; merit-based practice. See [[Merit-Based Practice]].
+- [[Jimenez and Vizconde v. Atty. Verano, Jr.]] — lobbying the DOJ Secretary; influence peddling extends beyond the regular courts. See [[Merit-Based Practice]].
+- [[Vantage Lighting Philippines v. Atty. Diño, Jr.]] — claiming a TRO could be bought, plus retaliatory harassment suits against a former client; disbarment. See [[Merit-Based Practice]].
+- [[Olvida v. Gonzales]] — neglect of a DARAB position paper and dishonesty toward the client; the rejected "client dictated procedure" defense links to lawyer discretion over procedure and strategy. See [[Lawyer's Duty and Discretion in Procedure and Strategy]].
+
 ## Unauthorized practice of law
 
 - [[Ulep v. The Legal Clinic, Inc.]] — corporate practice ban.

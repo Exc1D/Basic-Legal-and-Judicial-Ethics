@@ -86,7 +86,7 @@ The vault should not become a dump of review handouts. The goal is to build a **
 
 - [ ] Build out `03 Judicial Ethics` (New Code of Judicial Conduct, judicial independence/integrity/impartiality/propriety/equality/competence, disqualification and inhibition, discipline) — currently a README stub only.
 - [ ] Build out `04 Notarial Practice` (Notary Public, qualifications, powers, prohibited acts, register, competent evidence of identity, remote notarization) — currently a README stub only.
-- [ ] Write individual CPRA sub-canon notes (Canon I–VI provisions listed in the CPRA map below).
+- [ ] Write individual CPRA sub-canon notes for Canons II–VI (Canon I is now built — see the CPRA map below).
 - [ ] Digest the cases in "High-yield cases to add next," verified against Lawphil/SC E-Library.
 - [ ] Build the remaining tables: [[Conflict of Interest Decision Tree]], [[Legal Ethics Sanctions Table]], [[Notarial Defects and Sanctions Table]], [[Judicial Discipline - Charges and Sanctions Table]].
 
@@ -121,10 +121,10 @@ Use this section as the vault’s CPRA index. Each Canon note should have this s
 
 ### Canon I — Independence
 
-- [[Canon I - Independence]] — independent, accessible, efficient, and effective legal service.
-- [[Merit-Based Practice]] — no influence peddling, appearance of influence, or undermining tribunals.
-- [[Freedom from Improper Considerations and External Influences]] — no friendly courts, friendly prosecutors, dishonest influence, or pressure.
-- [[Lawyer's Duty and Discretion in Procedure and Strategy]] — client decides objectives and settlement; lawyer controls lawful procedure and strategy.
+- [[Canon I - Independence]] — independent, accessible, efficient, and effective legal service; non-interference by a lawyer. *Jacolbia v. Atty. Panganiban*.
+- [[Merit-Based Practice]] — no influence peddling, appearance of influence, or undermining tribunals. *Judge Dumlao, Jr. v. Atty. Camacho*, *Jimenez and Vizconde v. Atty. Verano, Jr.*, *Vantage Lighting Philippines v. Atty. Diño, Jr.*
+- [[Freedom from Improper Considerations and External Influences]] — no friendly courts, friendly prosecutors, dishonest influence, or pressure. No case assigned.
+- [[Lawyer's Duty and Discretion in Procedure and Strategy]] — client decides objectives and settlement; lawyer controls lawful procedure and strategy. *Olvida v. Gonzales*.
 
 ### Canon II — Propriety
 
@@ -322,6 +322,14 @@ These are the current case anchors already linked in this MOC. Keep improving th
 ### Attorney’s fees
 
 - [[Rosario, Jr. v. De Guzman]] — ordinary attorney’s compensation, extraordinary attorney’s fees, quantum meruit, and written fee arrangements.
+
+### CPRA Canon I — Independence
+
+- [[Jacolbia v. Atty. Panganiban]] — twelve years of inaction plus refusal to return client funds and documents; accessible/efficient/effective legal service.
+- [[Judge Dumlao, Jr. v. Atty. Camacho]] — namedropping Justices, a bribery offer to a judge, threats to a sheriff; merit-based practice.
+- [[Jimenez and Vizconde v. Atty. Verano, Jr.]] — lobbying the DOJ Secretary; influence peddling beyond the regular courts.
+- [[Vantage Lighting Philippines v. Atty. Diño, Jr.]] — claiming a TRO could be bought, plus retaliatory suits against a former client; disbarment.
+- [[Olvida v. Gonzales]] — neglect of a DARAB position paper and dishonesty; lawyer's discretion over procedure and strategy.
 
 ### Unauthorized practice of law
 

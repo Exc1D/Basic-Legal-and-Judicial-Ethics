@@ -152,6 +152,38 @@ A: No. RA 6713, Sec. 7(b)(2) imposes a one-year post-employment restriction.
 Q: May a government-employed lawyer be disciplined as a member of the Bar for misconduct in that government office?  
 A: Generally no — unless the misconduct is serious enough to affect the lawyer's qualification or shows moral delinquency, such as forgery.
 
+## CPRA Canon I — Independence
+
+Q: What two duties does CPRA Canon I, Sec. 1 combine?  
+A: The general concept of lawyer's independence, and the specific duty to render accessible, efficient, and effective legal service.
+
+Q: What was Atty. Panganiban's core failure in *Jacolbia v. Atty. Panganiban*?  
+A: Twelve years of total inaction on a title-transfer engagement, plus an unjustified refusal to return the client's fees and title document on demand.
+
+Q: What does CPRA Canon I, Sec. 2 (merit-based practice) prohibit?  
+A: Relying on anything but the merits of a cause — a lawyer must not exert, or give the appearance of, influence on a court, tribunal, or government agency.
+
+Q: Is merit-based practice limited to conduct before courts?  
+A: No — *Jimenez and Vizconde v. Atty. Verano, Jr.* extends it to any venue in the justice sector, including executive agencies like the DOJ.
+
+Q: Why did Atty. Camacho's two-year suspension in *Judge Dumlao, Jr. v. Atty. Camacho* have no practical effect?  
+A: He had already been disbarred in a separate, earlier case; Philippine jurisdiction has no double disbarment, so the penalty was recorded for the Office of the Bar Confidant only.
+
+Q: Why was Atty. Diño disbarred rather than merely suspended in *Vantage Lighting Philippines v. Atty. Diño, Jr.*?  
+A: He affirmatively claimed a judge could be bribed for a TRO, then filed five retaliatory suits against his former client.
+
+Q: How does CPRA Canon I, Sec. 3 differ from Sec. 2?  
+A: Sec. 2 bars the lawyer from influencing the tribunal; Sec. 3 bars outside dishonest or immoral considerations, external influences, or pressure from improperly shaping the lawyer's own advocacy.
+
+Q: Under CPRA Canon I, Sec. 4, what may a lawyer not do absent authorization by law or a court?  
+A: Assist or cause a government branch, agency, office, or officer to interfere in a matter pending before a different court, tribunal, or government agency.
+
+Q: Under CPRA Canon I, Sec. 5, who controls the procedure used to handle a case?  
+A: The lawyer — the client may not dictate or determine the procedure, though the client still controls the case's objectives and the decision to settle.
+
+Q: In *Olvida v. Gonzales*, why did the Court reject the lawyer's "the client wanted to dictate procedure" excuse?  
+A: Even a genuine disagreement did not excuse total inaction — the lawyer's own professional judgment should have controlled, and he should have withdrawn if he truly could not proceed.
+
 ## Add new cards here
 
 ```markdown
