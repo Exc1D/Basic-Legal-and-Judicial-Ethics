@@ -85,15 +85,27 @@ The vault should not become a dump of review handouts. The goal is to build a **
 
 - [x] Convert this MOC into a true home dashboard with links to all major ethics areas.
 - [x] Create a clean note for [[Practice of Law]].
-- [ ] Create a clean note for [[Admission to the Bar]].
-- [ ] Create a clean note for [[Continuing Requirements for the Practice of Law]].
-- [ ] Create [[Appearance of Non-Lawyers - Comparison Table]].
-- [ ] Create [[Prohibited Proceedings for Lawyers - KP Small Claims IPRA]].
-- [ ] Create [[Public Officials and Private Practice Table]].
-- [ ] Create [[CPRA Canon Index]].
-- [ ] Create [[Ethics Case Index]].
-- [ ] Create [[Legal Ethics Bar Traps]].
-- [ ] Create [[Legal Ethics Flashcards]].
+- [x] Create a clean note for [[Admission to the Bar]].
+- [x] Create a clean note for [[Continuing Requirements for the Practice of Law]].
+- [x] Create a clean note for [[Law Student Practice Rule]].
+- [x] Create a clean note for [[Appearance of Non-Lawyers]].
+- [x] Create a clean note for [[Prohibited Proceedings for Lawyers]].
+- [x] Create a clean note for [[Public Officials and Private Practice]].
+- [x] Create [[Appearance of Non-Lawyers - Comparison Table]].
+- [x] Create [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]].
+- [x] Create [[Public Officials and Private Practice Table]].
+- [x] Create [[CPRA Canon Index]].
+- [x] Create [[Ethics Case Index]].
+- [x] Create [[Legal Ethics Bar Traps]].
+- [x] Create [[Legal Ethics Flashcards]].
+
+### Next up
+
+- [ ] Build out `03 Judicial Ethics` (New Code of Judicial Conduct, judicial independence/integrity/impartiality/propriety/equality/competence, disqualification and inhibition, discipline) — currently a README stub only.
+- [ ] Build out `04 Notarial Practice` (Notary Public, qualifications, powers, prohibited acts, register, competent evidence of identity, remote notarization) — currently a README stub only.
+- [ ] Write individual CPRA sub-canon notes (Canon I–VI provisions listed in the CPRA map below).
+- [ ] Digest the cases in "High-yield cases to add next," verified against Lawphil/SC E-Library.
+- [ ] Build the remaining tables: [[Conflict of Interest Decision Tree]], [[Legal Ethics Sanctions Table]], [[Notarial Defects and Sanctions Table]], [[Judicial Discipline - Charges and Sanctions Table]].
 
 ---
 
@@ -104,8 +116,8 @@ These are the first notes to build because they explain who may practice law, wh
 - [[Practice of Law]] — definition, scope, in-court and out-of-court legal service, and CPRA Canon III, Section 1.
 - [[The Practice of Law as "A Mere Privilege, Not a Right" in Philippine Legal Ethics|Practice of Law: A Mere Privilege, Not a Right]] — the privilege theory of law practice.
 - [[The Practice of Law as a Profession, Not a Business or Trade]] — public service, dignity of the profession, advertising, solicitation, and commercialization limits.
-- [[Admission to the Bar]] — citizenship, residence, age, good moral character, absence of moral-turpitude charge, and academic requirements.
-- [[Continuing Requirements for the Practice of Law]] — PTR, IBP membership/good standing, IBP dues, MCLE, good moral character, legal aid, and citizenship.
+- [[Admission to the Bar]] — citizenship, legal age, good moral character, finality of any moral-turpitude charge, and academic/CLEP requirements under Rule 138 as amended by A.M. No. 24-10-05-SC (2025).
+- [[Continuing Requirements for the Practice of Law]] — PTR, IBP membership/good standing, IBP dues, MCLE, good moral character, legal aid (ULAS), and citizenship.
 - [[Revised Lawyer's Oath]] — oath as ethical north star: Constitution, rule of law, truth, justice, equality, integrity, and civility.
 - [[Law Student Practice Rule]] — Level 1 and Level 2 certification, scope, and revocation.
 - [[Appearance of Non-Lawyers]] — when non-lawyers may appear before courts, labor tribunals, cadastral courts, DARAB, or other bodies.
