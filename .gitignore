@@ -1,0 +1,6 @@
+# Copyrighted private bar-review materials — never commit to this public repo.
+# See README.md "Copyright-safe rule" and 99 Sources/Source Index.md.
+/reviewers/
+
+# OS / editor cruft
+.DS_Store
