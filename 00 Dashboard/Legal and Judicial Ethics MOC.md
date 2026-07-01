@@ -83,24 +83,6 @@ The vault should not become a dump of review handouts. The goal is to build a **
 
 ## Today’s build queue
 
-- [x] Convert this MOC into a true home dashboard with links to all major ethics areas.
-- [x] Create a clean note for [[Practice of Law]].
-- [x] Create a clean note for [[Admission to the Bar]].
-- [x] Create a clean note for [[Continuing Requirements for the Practice of Law]].
-- [x] Create a clean note for [[Law Student Practice Rule]].
-- [x] Create a clean note for [[Appearance of Non-Lawyers]].
-- [x] Create a clean note for [[Prohibited Proceedings for Lawyers]].
-- [x] Create a clean note for [[Public Officials and Private Practice]].
-- [x] Create [[Appearance of Non-Lawyers - Comparison Table]].
-- [x] Create [[Lawyers Prohibited from Appearing - KP Small Claims IPRA]].
-- [x] Create [[Public Officials and Private Practice Table]].
-- [x] Create [[CPRA Canon Index]].
-- [x] Create [[Ethics Case Index]].
-- [x] Create [[Legal Ethics Bar Traps]].
-- [x] Create [[Legal Ethics Flashcards]].
-
-### Next up
-
 - [ ] Build out `03 Judicial Ethics` (New Code of Judicial Conduct, judicial independence/integrity/impartiality/propriety/equality/competence, disqualification and inhibition, discipline) — currently a README stub only.
 - [ ] Build out `04 Notarial Practice` (Notary Public, qualifications, powers, prohibited acts, register, competent evidence of identity, remote notarization) — currently a README stub only.
 - [ ] Write individual CPRA sub-canon notes (Canon I–VI provisions listed in the CPRA map below).
@@ -123,6 +105,8 @@ These are the first notes to build because they explain who may practice law, wh
 - [[Appearance of Non-Lawyers]] — when non-lawyers may appear before courts, labor tribunals, cadastral courts, DARAB, or other bodies.
 - [[Prohibited Proceedings for Lawyers]] — Katarungang Pambarangay, small claims, and IPRA exceptions.
 - [[Public Officials and Private Practice]] — absolute prohibitions, qualified prohibitions, and retired judges/justices.
+- [[Unauthorized Practice of Law]] — non-lawyers performing lawyer-exclusive acts, and lawyers practicing without current authority; the CPRA's Canon II, Sec. 35 successor to "Canon 9."
+- [[Signing of the Roll of Attorneys]] — the oath and the Roll as two distinct, indispensable steps; *Aguirre v. Rana* versus *In Re: Medado*.
 
 ---
 
@@ -336,8 +320,9 @@ These are the current case anchors already linked in this MOC. Keep improving th
 ### Unauthorized practice of law
 
 - [[Ulep v. The Legal Clinic, Inc.]] — corporate practice ban.
+- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — a lawyer's own unauthorized practice; mistake of fact versus mistake of law.
 - [[Bonifacio v. Atty. Era and Atty. Bragas]] — suspended lawyer continuing to practice; assisting unauthorized practice.
-- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer and co-signing pleadings.
+- [[Gonzales, Jr. and Concepcion v. Attys. Rivera and Bangoy]] — disbarred lawyer and co-signing pleadings; active versus passive assistance.
 - [[Arienda v. Monilla]] — non-lawyer court employee preparing legal documents.
 
 ### Government and court employees
@@ -358,6 +343,7 @@ These are the current case anchors already linked in this MOC. Keep improving th
 
 - [[In re Argosino, B.M. No. 712]] — moral character, rehabilitation, and oath-taking.
 - [[Aguirre v. Rana]] — unauthorized practice before signing the Roll; privilege denied even after passing the bar.
+- [[In Re Petition to Sign in the Roll of Attorneys, Michael Medado]] — decades of practice on an unsigned Roll; belated signing allowed only with a penalty.
 - [[Edillon, A.C. No. 1928, 84 SCRA 554 (August 3, 1978)]] — IBP dues, integration, disbarment, and reinstatement.
 
 ### Discipline and mechanics
